@@ -1,0 +1,4894 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Comre Theme Support v1.5.5\n"
+"POT-Creation-Date: 2016-04-28 23:42+0500\n"
+"PO-Revision-Date: 2016-04-28 23:42+0500\n"
+"Last-Translator: Shahbaz Ahmed <support@wow-themes.com>\n"
+"Language-Team: Wow Themes <support@wow-themes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/helpers/ajax.php:43
+msgid "Please provide tiwtter api information to fetch feed"
+msgstr ""
+
+#: includes/helpers/ajax.php:53
+msgid " ago"
+msgstr ""
+
+#: includes/helpers/ajax.php:61
+msgid " about "
+msgstr ""
+
+#: includes/helpers/ajax.php:77 includes/helpers/woocommerce.php:177
+#: includes/resource/shortcodes-zo.php:1065
+#: includes/resource/shortcodes-zo.php:1199
+#: includes/resource/shortcodes-zo.php:1329
+#: includes/resource/shortcodes-zo.php:1449
+#: includes/resource/shortcodes-zo.php:1597
+#: includes/resource/shortcodes-zo.php:1709
+#: includes/resource/shortcodes-zo.php:1853
+#: includes/resource/shortcodes-zo.php:1951 includes/resource/shortcodes.php:77
+#: includes/resource/shortcodes.php:133 includes/resource/shortcodes.php:211
+#: includes/resource/shortcodes.php:299 includes/resource/shortcodes.php:386
+#: includes/resource/shortcodes.php:464 includes/resource/shortcodes.php:504
+#: includes/resource/shortcodes.php:656 includes/resource/shortcodes.php:857
+#: includes/resource/shortcodes.php:931 includes/resource/shortcodes.php:1006
+#: includes/resource/shortcodes.php:1067 includes/resource/shortcodes.php:1136
+#: includes/resource/shortcodes.php:1203 includes/resource/shortcodes.php:1683
+msgid "Name"
+msgstr ""
+
+#: includes/helpers/ajax.php:80 includes/library/widgets.php:905
+#: includes/library/widgets.php:955 includes/resource/shortcodes.php:1774
+msgid "Email"
+msgstr ""
+
+#: includes/helpers/ajax.php:82
+msgid "Website"
+msgstr ""
+
+#: includes/helpers/ajax.php:83
+msgid "Company"
+msgstr ""
+
+#: includes/helpers/ajax.php:85
+msgid "Message"
+msgstr ""
+
+#: includes/helpers/ajax.php:98
+msgid "Invalid captcha entered, please try again."
+msgstr ""
+
+#: includes/helpers/ajax.php:108
+msgid "Contact Name:\t"
+msgstr ""
+
+#: includes/helpers/ajax.php:109
+msgid "Contact Website:\t"
+msgstr ""
+
+#: includes/helpers/ajax.php:110
+msgid "Contact Company:\t"
+msgstr ""
+
+#: includes/helpers/ajax.php:111
+msgid "Contact Subject:\t"
+msgstr ""
+
+#: includes/helpers/ajax.php:118
+#, php-format
+msgid "Contact Us Message from %s"
+msgstr ""
+
+#: includes/helpers/ajax.php:122
+msgid "Email Sent Successfully."
+msgstr ""
+
+#: includes/helpers/ajax.php:123
+#, php-format
+msgid "Thank you <strong>%s</strong>, your message has been submitted to us."
+msgstr ""
+
+#: includes/helpers/ajax.php:135 includes/helpers/forms.php:281
+msgid "Error! "
+msgstr ""
+
+#: includes/helpers/ajax.php:155
+msgid "You have already added this item to wish list"
+msgstr ""
+
+#: includes/helpers/ajax.php:159
+msgid "Item successfully added to wishlist"
+msgstr ""
+
+#: includes/helpers/ajax.php:161
+msgid "There is an error adding to wishlist"
+msgstr ""
+
+#: includes/helpers/ajax.php:164
+msgid "Please login first to add the item to your wishlist"
+msgstr ""
+
+#: includes/helpers/ajax.php:181
+msgid "Product is successfully deleted from wishlist"
+msgstr ""
+
+#: includes/helpers/ajax.php:182
+msgid "Unable to find this product into wishlist"
+msgstr ""
+
+#: includes/helpers/ajax.php:185
+msgid "Unable to retrieve your wishlist"
+msgstr ""
+
+#: includes/helpers/ajax.php:188
+msgid "Please login first to add/delete product in your wishlist"
+msgstr ""
+
+#: includes/helpers/backup_class.php:277
+#, php-format
+msgid ""
+"System is not able to create backup directory, please create a directory "
+"named \"backup\" in \"%s\" manually and give it 0777 write permission."
+msgstr ""
+
+#: includes/helpers/forms.php:60
+msgid "Send"
+msgstr ""
+
+#: includes/helpers/forms.php:131
+msgid "UPLOAD"
+msgstr ""
+
+#: includes/helpers/forms.php:250
+msgid "There is form validation error or spamming issue"
+msgstr ""
+
+#: includes/helpers/forms.php:259
+#, php-format
+msgid "%s - Form Submitted"
+msgstr ""
+
+#: includes/helpers/forms.php:261
+msgid "Form is successfully submitted, we'll response you shortly."
+msgstr ""
+
+#: includes/helpers/forms.php:264 includes/vafpress/bootstrap.php:83
+#: includes/vafpress/classes/option.php:356
+#: includes/vafpress/classes/option.php:381
+msgid "Successful"
+msgstr ""
+
+#: includes/helpers/meta_boxes.php:59
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: includes/helpers/minit.php:512
+msgid "Purge cache"
+msgstr ""
+
+#: includes/helpers/minit.php:548
+msgid "Success: Minit cache purged."
+msgstr ""
+
+#: includes/helpers/post_types.php:31
+msgid "Slides"
+msgstr ""
+
+#: includes/helpers/post_types.php:33
+msgid "Slide"
+msgstr ""
+
+#: includes/helpers/post_types.php:35
+msgid "Slidr"
+msgstr ""
+
+#: includes/helpers/post_types.php:37
+msgid "Parent Slide:"
+msgstr ""
+
+#: includes/helpers/post_types.php:39
+msgid "All Slides"
+msgstr ""
+
+#: includes/helpers/post_types.php:41
+msgid "View Slide"
+msgstr ""
+
+#: includes/helpers/post_types.php:43
+msgid "Add New Slide"
+msgstr ""
+
+#: includes/helpers/post_types.php:45
+msgid "New Slide"
+msgstr ""
+
+#: includes/helpers/post_types.php:47
+msgid "Edit Slide"
+msgstr ""
+
+#: includes/helpers/post_types.php:49
+msgid "Update Slide"
+msgstr ""
+
+#: includes/helpers/post_types.php:51
+msgid "Search Slides"
+msgstr ""
+
+#: includes/helpers/post_types.php:53
+msgid "No Slides found"
+msgstr ""
+
+#: includes/helpers/post_types.php:55
+msgid "No Slides found in Trash"
+msgstr ""
+
+#: includes/helpers/post_types.php:83
+msgid "bistro_slider"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:35 includes/helpers/taxonomies.php:36
+#: includes/helpers/taxonomies.php:37 includes/helpers/taxonomies.php:110
+#: includes/helpers/taxonomies.php:111 includes/helpers/taxonomies.php:112
+#: includes/helpers/taxonomies.php:147 includes/helpers/taxonomies.php:148
+#: includes/helpers/taxonomies.php:149 includes/helpers/taxonomies.php:184
+#: includes/helpers/taxonomies.php:185 includes/helpers/taxonomies.php:186
+#: includes/helpers/taxonomies.php:221 includes/helpers/taxonomies.php:222
+#: includes/helpers/taxonomies.php:223 includes/helpers/taxonomies.php:259
+#: includes/helpers/taxonomies.php:260 includes/helpers/taxonomies.php:261
+#: includes/library/widgets.php:1097 includes/resource/shortcodes-zo.php:1043
+#: includes/resource/shortcodes-zo.php:1177
+#: includes/resource/shortcodes-zo.php:1307
+#: includes/resource/shortcodes-zo.php:1427
+#: includes/resource/shortcodes-zo.php:1575
+#: includes/resource/shortcodes-zo.php:1687
+#: includes/resource/shortcodes-zo.php:1831
+#: includes/resource/shortcodes-zo.php:1929 includes/resource/shortcodes.php:66
+#: includes/resource/shortcodes.php:277 includes/resource/shortcodes.php:422
+#: includes/resource/shortcodes.php:493 includes/resource/shortcodes.php:645
+#: includes/resource/shortcodes.php:846 includes/resource/shortcodes.php:920
+#: includes/resource/shortcodes.php:995 includes/resource/shortcodes.php:1055
+#: includes/resource/shortcodes.php:1192 includes/resource/shortcodes.php:1672
+msgid "Category"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:38 includes/helpers/taxonomies.php:113
+#: includes/helpers/taxonomies.php:150 includes/helpers/taxonomies.php:187
+#: includes/helpers/taxonomies.php:224 includes/helpers/taxonomies.php:262
+#: includes/library/widgets.php:1099
+msgid "All Categories"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:39 includes/helpers/taxonomies.php:114
+#: includes/helpers/taxonomies.php:151 includes/helpers/taxonomies.php:225
+#: includes/helpers/taxonomies.php:263
+msgid "Parent Category"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:40 includes/helpers/taxonomies.php:115
+#: includes/helpers/taxonomies.php:152 includes/helpers/taxonomies.php:226
+#: includes/helpers/taxonomies.php:264
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:41 includes/helpers/taxonomies.php:116
+#: includes/helpers/taxonomies.php:153 includes/helpers/taxonomies.php:190
+#: includes/helpers/taxonomies.php:227 includes/helpers/taxonomies.php:265
+msgid "New Category Name"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:42 includes/helpers/taxonomies.php:117
+#: includes/helpers/taxonomies.php:154 includes/helpers/taxonomies.php:191
+#: includes/helpers/taxonomies.php:228 includes/helpers/taxonomies.php:266
+msgid "Add New Category"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:43 includes/helpers/taxonomies.php:118
+#: includes/helpers/taxonomies.php:155 includes/helpers/taxonomies.php:192
+#: includes/helpers/taxonomies.php:229 includes/helpers/taxonomies.php:267
+msgid "Edit Category"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:44 includes/helpers/taxonomies.php:119
+#: includes/helpers/taxonomies.php:156 includes/helpers/taxonomies.php:193
+#: includes/helpers/taxonomies.php:230 includes/helpers/taxonomies.php:268
+msgid "Update Category"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:45 includes/helpers/taxonomies.php:120
+#: includes/helpers/taxonomies.php:157 includes/helpers/taxonomies.php:194
+#: includes/helpers/taxonomies.php:231 includes/helpers/taxonomies.php:269
+msgid "Separate Categories with commas"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:46 includes/helpers/taxonomies.php:121
+#: includes/helpers/taxonomies.php:158 includes/helpers/taxonomies.php:195
+#: includes/helpers/taxonomies.php:232 includes/helpers/taxonomies.php:270
+msgid "Search Categories"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:47 includes/helpers/taxonomies.php:122
+#: includes/helpers/taxonomies.php:159 includes/helpers/taxonomies.php:196
+#: includes/helpers/taxonomies.php:233 includes/helpers/taxonomies.php:271
+msgid "Add or remove Categories"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:48 includes/helpers/taxonomies.php:123
+#: includes/helpers/taxonomies.php:160 includes/helpers/taxonomies.php:197
+#: includes/helpers/taxonomies.php:234 includes/helpers/taxonomies.php:272
+msgid "Choose from the most used Categories"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:73 includes/helpers/taxonomies.php:74
+msgid "Store"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:75
+msgid "Stores"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:76
+msgid "All Stores"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:77
+msgid "Parent Store"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:78
+msgid "Parent Store:"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:79
+msgid "New Store Name"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:80
+msgid "Add New Store"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:81
+msgid "Edit Store"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:82
+msgid "Update Store"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:83
+msgid "Separate Stores with commas"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:84
+msgid "Search Stores"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:85
+msgid "Add or remove Stores"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:86
+msgid "Choose from the most used Stores"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:188
+msgid "Gallery Category"
+msgstr ""
+
+#: includes/helpers/taxonomies.php:189
+msgid "Gallery Category:"
+msgstr ""
+
+#: includes/helpers/validation.php:591
+msgid "Unable to find validation rules"
+msgstr ""
+
+#: includes/helpers/validation.php:995
+msgid "The field was not set"
+msgstr ""
+
+#: includes/helpers/validation.php:1279
+msgid "Unable to access an error message corresponding to your field name."
+msgstr ""
+
+#: includes/helpers/validation.php:2557
+#, php-format
+msgid "The %s field is required."
+msgstr ""
+
+#: includes/helpers/validation.php:2559
+#, php-format
+msgid "The %s field must have a value."
+msgstr ""
+
+#: includes/helpers/validation.php:2561
+#, php-format
+msgid "The %s field must contain a valid email address."
+msgstr ""
+
+#: includes/helpers/validation.php:2563
+#, php-format
+msgid "The %s field must contain all valid email addresses."
+msgstr ""
+
+#: includes/helpers/validation.php:2565
+#, php-format
+msgid "The %s field must contain a valid URL."
+msgstr ""
+
+#: includes/helpers/validation.php:2567
+#, php-format
+msgid "The %s field must contain a valid IP."
+msgstr ""
+
+#: includes/helpers/validation.php:2569
+#, php-format
+msgid "The %s field must be at least %s characters in length."
+msgstr ""
+
+#: includes/helpers/validation.php:2571
+#, php-format
+msgid "The %s field can not exceed %s characters in length."
+msgstr ""
+
+#: includes/helpers/validation.php:2573
+#, php-format
+msgid "The %s field must be exactly %s characters in length."
+msgstr ""
+
+#: includes/helpers/validation.php:2575
+#, php-format
+msgid "The %s field may only contain alphabetical characters."
+msgstr ""
+
+#: includes/helpers/validation.php:2577
+#, php-format
+msgid "The %s field may only contain alph-space characters."
+msgstr ""
+
+#: includes/helpers/validation.php:2579
+#, php-format
+msgid "The %s field may only contain alpha-numeric characters."
+msgstr ""
+
+#: includes/helpers/validation.php:2581
+#, php-format
+msgid ""
+"The %s field may only contain alpha-numeric characters, underscores, and "
+"dashes."
+msgstr ""
+
+#: includes/helpers/validation.php:2583
+#, php-format
+msgid "The %s field must contain only numbers."
+msgstr ""
+
+#: includes/helpers/validation.php:2585
+#, php-format
+msgid "The %s field must contain only numeric characters."
+msgstr ""
+
+#: includes/helpers/validation.php:2587
+#, php-format
+msgid "The %s field must contain an integer."
+msgstr ""
+
+#: includes/helpers/validation.php:2589
+#, php-format
+msgid "The %s field is not in the correct format."
+msgstr ""
+
+#: includes/helpers/validation.php:2591
+#, php-format
+msgid "The %s field does not match the %s field."
+msgstr ""
+
+#: includes/helpers/validation.php:2593
+#, php-format
+msgid "The %s field must contain only positive numbers."
+msgstr ""
+
+#: includes/helpers/validation.php:2595
+#, php-format
+msgid "The %s field must contain a number greater than zero."
+msgstr ""
+
+#: includes/helpers/validation.php:2597
+#, php-format
+msgid "The %s field must contain a decimal number."
+msgstr ""
+
+#: includes/helpers/validation.php:2599
+#, php-format
+msgid "The %s field must contain a number less than %s."
+msgstr ""
+
+#: includes/helpers/validation.php:2601
+#, php-format
+msgid "The %s field must contain a number greater than %s."
+msgstr ""
+
+#: includes/helpers/validation.php:2603
+#, php-format
+msgid "The %s field must contain a file extension %s."
+msgstr ""
+
+#: includes/helpers/walker.php:1169
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: includes/helpers/walker.php:1177
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/helpers/walker.php:1223
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/helpers/walker.php:1241
+msgid "URL"
+msgstr ""
+
+#: includes/helpers/walker.php:1255
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/helpers/walker.php:1267
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/helpers/walker.php:1281
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/helpers/walker.php:1291
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/helpers/walker.php:1303
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/helpers/walker.php:1315 includes/resource/shortcodes.php:735
+#: includes/resource/shortcodes.php:1758
+msgid "Description"
+msgstr ""
+
+#: includes/helpers/walker.php:1323
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: includes/helpers/walker.php:1341
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: includes/helpers/walker.php:1351 includes/helpers/woocommerce.php:178
+#: includes/vafpress/classes/metabox.php:564
+#: includes/vafpress/classes/metabox/alchemy.php:493
+#: includes/vp_new/classes/alchemy.php:985 includes/vp_new/taxonomy.php:569
+msgid "Remove"
+msgstr ""
+
+#: includes/helpers/walker.php:1351
+msgid "Cancel"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:46
+#: includes/vafpress/admin/metabox/meta_boxes.php:83
+msgid "Post Settings"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:106
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:144
+msgid ""
+"Are you sure you want to link all variations? This will create a new "
+"variation for each and every possible combination of variation attributes "
+"(max 50 per run)."
+msgstr ""
+
+#: includes/helpers/woocommerce.php:145
+msgid "Enter a value"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:146
+msgid "Variation menu order (determines position in the list of variations)"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:147
+msgid "Enter a value (fixed or %)"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:148
+msgid "Are you sure you want to delete all variations? This cannot be undone."
+msgstr ""
+
+#: includes/helpers/woocommerce.php:149
+msgid "Last warning, are you sure?"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:150
+msgid "Choose an image"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:151
+msgid "Set variation image"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:152
+msgid "variation added"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:153
+msgid "variations added"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:154
+msgid "No variations added"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:155
+msgid "Are you sure you want to remove this variation?"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:156
+msgid "Sale start date (YYYY-MM-DD format or leave blank)"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:157
+msgid "Sale end date (YYYY-MM-DD format or leave blank)"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:158
+msgid "Save changes before changing page?"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:159
+msgid "%qty% variation"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:160
+msgid "%qty% variations"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:170
+msgid ""
+"Are you sure you want to remove the selected items? If you have previously "
+"reduced this item's stock, or this order was submitted by a customer, you "
+"will need to manually restore the item's stock."
+msgstr ""
+
+#: includes/helpers/woocommerce.php:171
+msgid "Please select some items."
+msgstr ""
+
+#: includes/helpers/woocommerce.php:172
+msgid ""
+"Are you sure you wish to process this refund? This action cannot be undone."
+msgstr ""
+
+#: includes/helpers/woocommerce.php:173
+msgid ""
+"Are you sure you wish to delete this refund? This action cannot be undone."
+msgstr ""
+
+#: includes/helpers/woocommerce.php:174
+msgid ""
+"Are you sure you wish to delete this tax column? This action cannot be "
+"undone."
+msgstr ""
+
+#: includes/helpers/woocommerce.php:175
+msgid "Remove this item meta?"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:176
+msgid "Remove this attribute?"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:179
+msgid "Click to toggle"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:180
+msgid "Value(s)"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:181
+msgid "Enter some text, or some attributes by pipe (|) separating values."
+msgstr ""
+
+#: includes/helpers/woocommerce.php:182
+msgid "Visible on the product page"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:183
+msgid "Used for variations"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:184
+msgid "Enter a name for the new attribute term:"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:185
+msgid "Calculate totals based on order items, discounts, and shipping?"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:186
+msgid ""
+"Calculate line taxes? This will calculate taxes based on the customers "
+"country. If no billing/shipping is set it will use the store base country."
+msgstr ""
+
+#: includes/helpers/woocommerce.php:187
+msgid ""
+"Copy billing information to shipping information? This will remove any "
+"currently entered shipping information."
+msgstr ""
+
+#: includes/helpers/woocommerce.php:188
+msgid ""
+"Load the customer's billing information? This will remove any currently "
+"entered billing information."
+msgstr ""
+
+#: includes/helpers/woocommerce.php:189
+msgid ""
+"Load the customer's shipping information? This will remove any currently "
+"entered shipping information."
+msgstr ""
+
+#: includes/helpers/woocommerce.php:190
+msgid "Featured"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:193
+msgid "No customer selected"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:217
+msgid ""
+"Could not grant access - the user may already have permission for this file "
+"or billing email is not set. Ensure the billing email is set, and the order "
+"has been saved."
+msgstr ""
+
+#: includes/helpers/woocommerce.php:218
+msgid "Are you sure you want to revoke access to this download?"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:219
+msgid "You cannot add the same tax rate twice!"
+msgstr ""
+
+#: includes/helpers/woocommerce.php:220
+msgid ""
+"Your product has variations! Before changing the product type, it is a good "
+"idea to delete the variations to avoid errors in the stock reports."
+msgstr ""
+
+#: includes/library/batch-coupons.php:47
+msgid "Batch Coupons Uploader"
+msgstr ""
+
+#: includes/library/batch-coupons.php:47
+msgid "Batch Couopons"
+msgstr ""
+
+#: includes/library/batch-coupons.php:95
+msgid "Upload Batch File"
+msgstr ""
+
+#: includes/library/batch-coupons.php:100
+msgid "Upload"
+msgstr ""
+
+#: includes/library/batch-coupons.php:104
+#: includes/vafpress/views/option/impexp.php:53
+#: includes/vafpress/views/option/impexp.php:73
+#: includes/vp_new/views/option/impexp.php:27
+#: includes/vp_new/views/option/impexp.php:37
+msgid "Export"
+msgstr ""
+
+#: includes/library/batch-coupons.php:128
+msgid "Unauthorized form submission"
+msgstr ""
+
+#: includes/library/batch-coupons.php:176
+msgid "You must login to submit this form!"
+msgstr ""
+
+#: includes/library/batch-coupons.php:249
+msgid "Your coupon Added successfully and pending for review"
+msgstr ""
+
+#: includes/library/functions.php:41
+msgid "No Icon"
+msgstr ""
+
+#: includes/library/widgets.php:15
+msgid "Preshop News Letter"
+msgstr ""
+
+#: includes/library/widgets.php:15
+msgid "News Letter"
+msgstr ""
+
+#: includes/library/widgets.php:43
+msgid "Subscribe to Newsletter"
+msgstr ""
+
+#: includes/library/widgets.php:45
+msgid "Enter your email"
+msgstr ""
+
+#: includes/library/widgets.php:53
+msgid "GO"
+msgstr ""
+
+#: includes/library/widgets.php:91
+msgid "Subscribe"
+msgstr ""
+
+#: includes/library/widgets.php:101 includes/library/widgets.php:617
+#: includes/library/widgets.php:781 includes/library/widgets.php:873
+#: includes/library/widgets.php:963
+msgid "Title:"
+msgstr ""
+
+#: includes/library/widgets.php:109
+msgid "Feedburner ID:"
+msgstr ""
+
+#: includes/library/widgets.php:117
+msgid "Text :"
+msgstr ""
+
+#: includes/library/widgets.php:143
+msgid "Preshop Social Media"
+msgstr ""
+
+#: includes/library/widgets.php:143
+#: includes/vafpress/admin/option/option.php:950
+msgid "Social Media"
+msgstr ""
+
+#: includes/library/widgets.php:247
+msgid "Facebook:"
+msgstr ""
+
+#: includes/library/widgets.php:255
+msgid "Twitter:"
+msgstr ""
+
+#: includes/library/widgets.php:263
+msgid "Google Plus:"
+msgstr ""
+
+#: includes/library/widgets.php:271
+msgid "Pinterest:"
+msgstr ""
+
+#: includes/library/widgets.php:279
+msgid "Youtube:"
+msgstr ""
+
+#: includes/library/widgets.php:287
+msgid "Yelp:"
+msgstr ""
+
+#: includes/library/widgets.php:295
+msgid "Blogger:"
+msgstr ""
+
+#: includes/library/widgets.php:303
+msgid "Deviantart:"
+msgstr ""
+
+#: includes/library/widgets.php:329
+msgid "Preshop Accounts For Payment"
+msgstr ""
+
+#: includes/library/widgets.php:329
+msgid "Preshop Account"
+msgstr ""
+
+#: includes/library/widgets.php:443
+msgid "Paypal:"
+msgstr ""
+
+#: includes/library/widgets.php:453
+msgid "Visa:"
+msgstr ""
+
+#: includes/library/widgets.php:463
+msgid "Mastercard:"
+msgstr ""
+
+#: includes/library/widgets.php:473
+msgid "Stripe:"
+msgstr ""
+
+#: includes/library/widgets.php:483
+msgid "Amex:"
+msgstr ""
+
+#: includes/library/widgets.php:507
+msgid "Pretty Social Profile"
+msgstr ""
+
+#: includes/library/widgets.php:507
+#: includes/vafpress/admin/metabox/meta_boxes.php:154
+msgid "Social Profile"
+msgstr ""
+
+#: includes/library/widgets.php:529
+msgid "Women Shoes "
+msgstr ""
+
+#: includes/library/widgets.php:531
+msgid "Special Offers "
+msgstr ""
+
+#: includes/library/widgets.php:533
+msgid "Shopping Mall "
+msgstr ""
+
+#: includes/library/widgets.php:535
+msgid "Guess You Like "
+msgstr ""
+
+#: includes/library/widgets.php:537
+msgid "Warehouse "
+msgstr ""
+
+#: includes/library/widgets.php:591
+msgid "Social Profiles"
+msgstr ""
+
+#: includes/library/widgets.php:625
+msgid "Facebook URL:"
+msgstr ""
+
+#: includes/library/widgets.php:633
+msgid "Facebook Number:"
+msgstr ""
+
+#: includes/library/widgets.php:641
+msgid "Twitter URL:"
+msgstr ""
+
+#: includes/library/widgets.php:649
+msgid "Twitter Number:"
+msgstr ""
+
+#: includes/library/widgets.php:657
+msgid "Google Plus URL:"
+msgstr ""
+
+#: includes/library/widgets.php:665
+msgid "Google Plus Number:"
+msgstr ""
+
+#: includes/library/widgets.php:673
+msgid "Instagram URL:"
+msgstr ""
+
+#: includes/library/widgets.php:681
+msgid "Instagram Number:"
+msgstr ""
+
+#: includes/library/widgets.php:689
+msgid "Pinterest URL:"
+msgstr ""
+
+#: includes/library/widgets.php:697
+msgid "Pinterest Number:"
+msgstr ""
+
+#: includes/library/widgets.php:721
+msgid "Preshop Contact Number"
+msgstr ""
+
+#: includes/library/widgets.php:721
+msgid "contact number"
+msgstr ""
+
+#: includes/library/widgets.php:773
+msgid "Telephone"
+msgstr ""
+
+#: includes/library/widgets.php:789
+msgid "Contact Number:"
+msgstr ""
+
+#: includes/library/widgets.php:813
+msgid "Preshop Address"
+msgstr ""
+
+#: includes/library/widgets.php:813 includes/library/widgets.php:863
+#: includes/resource/shortcodes.php:1766
+msgid "Address"
+msgstr ""
+
+#: includes/library/widgets.php:881
+msgid "Address:"
+msgstr ""
+
+#: includes/library/widgets.php:905
+msgid "Preshop email"
+msgstr ""
+
+#: includes/library/widgets.php:973
+msgid "Email:"
+msgstr ""
+
+#: includes/library/widgets.php:997
+msgid "Preshop New Items "
+msgstr ""
+
+#: includes/library/widgets.php:997
+msgid "New items with images"
+msgstr ""
+
+#: includes/library/widgets.php:1069
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/library/widgets.php:1079
+msgid "Title: "
+msgstr ""
+
+#: includes/library/widgets.php:1087
+msgid "No. of Posts:"
+msgstr ""
+
+#: includes/library/widgets.php:1153
+msgid "View Item"
+msgstr ""
+
+#: includes/loader.php:207 includes/loader.php:209
+msgid "Theme Options"
+msgstr ""
+
+#: includes/loader.php:215 includes/resource/settings.php:163
+msgid "Facebook"
+msgstr ""
+
+#: includes/loader.php:215 includes/resource/settings.php:177
+msgid "Twitter"
+msgstr ""
+
+#: includes/loader.php:215
+msgid "Linkedin"
+msgstr ""
+
+#: includes/loader.php:215
+msgid "Pinterest"
+msgstr ""
+
+#: includes/loader.php:217
+msgid "Tumblr"
+msgstr ""
+
+#: includes/loader.php:217
+msgid "Google+"
+msgstr ""
+
+#: includes/loader.php:247
+msgid "Bloxo Shortcodes"
+msgstr ""
+
+#: includes/loader.php:249
+msgid "Bloxo"
+msgstr ""
+
+#: includes/modules/header/header-grid.php:197
+#: includes/modules/header/header-side.php:143
+msgid "Click to read"
+msgstr ""
+
+#: includes/modules/header/header-grid.php:197
+#: includes/modules/header/header-side.php:143
+msgid "Trigger"
+msgstr ""
+
+#: includes/modules/header/header-normal.php:103
+msgid "Toggle navigation"
+msgstr ""
+
+#: includes/modules/shortcodes/contact.php:51
+msgid "Your name"
+msgstr ""
+
+#: includes/modules/shortcodes/contact.php:53
+msgid "Your website"
+msgstr ""
+
+#: includes/modules/shortcodes/contact.php:55
+msgid "Your email"
+msgstr ""
+
+#: includes/modules/shortcodes/contact.php:57
+msgid "How can I help?"
+msgstr ""
+
+#: includes/modules/shortcodes/contact.php:59
+msgid "Message goes here..."
+msgstr ""
+
+#: includes/modules/shortcodes/contact.php:61
+msgid "Send Message"
+msgstr ""
+
+#: includes/resource/post_types.php:21 includes/resource/post_types.php:25
+#: includes/resource/post_types.php:29
+#: includes/vafpress/admin/option/option.php:196
+msgid "Coupons"
+msgstr ""
+
+#: includes/resource/post_types.php:43 includes/resource/post_types.php:51
+msgid "Member"
+msgstr ""
+
+#: includes/resource/post_types.php:47 includes/resource/shortcodes-zo.php:1103
+msgid "Teams"
+msgstr ""
+
+#: includes/resource/post_types.php:66 includes/resource/post_types.php:74
+msgid "Service"
+msgstr ""
+
+#: includes/resource/post_types.php:70 includes/resource/shortcodes-zo.php:929
+msgid "Services"
+msgstr ""
+
+#: includes/resource/post_types.php:88 includes/resource/post_types.php:96
+msgid "Testimonial"
+msgstr ""
+
+#: includes/resource/post_types.php:92 includes/resource/shortcodes.php:595
+msgid "Testimonials"
+msgstr ""
+
+#: includes/resource/settings.php:15 includes/resource/settings.php:31
+#: includes/resource/settings.php:67 includes/resource/settings.php:133
+#: includes/vafpress/admin/metabox/meta_boxes.php:42
+#: includes/vafpress/admin/option/option.php:649
+#: includes/vafpress/admin/option/option.php:714
+#: includes/vafpress/admin/option/option.php:782
+#: includes/vafpress/admin/taxonomy/taxonomy.php:105
+msgid "Sidebar"
+msgstr ""
+
+#: includes/resource/settings.php:17 includes/resource/settings.php:33
+#: includes/resource/settings.php:135
+msgid "Choose an sidebar for this deal"
+msgstr ""
+
+#: includes/resource/settings.php:49
+msgid "Choos Font Awesome Icon"
+msgstr ""
+
+#: includes/resource/settings.php:51
+msgid "Choose an icon fron the font icons list"
+msgstr ""
+
+#: includes/resource/settings.php:69
+msgid "Choose an sidebar for this service"
+msgstr ""
+
+#: includes/resource/settings.php:85
+msgid "Start Date"
+msgstr ""
+
+#: includes/resource/settings.php:87
+msgid "Choose start date of the deal"
+msgstr ""
+
+#: includes/resource/settings.php:99
+msgid "End Date"
+msgstr ""
+
+#: includes/resource/settings.php:101
+msgid "Choose end date of the deal"
+msgstr ""
+
+#: includes/resource/settings.php:113
+msgid "Select Product"
+msgstr ""
+
+#: includes/resource/settings.php:117
+msgid "Choose the products for this deal"
+msgstr ""
+
+#: includes/resource/settings.php:147
+#: includes/vafpress/admin/metabox/meta_boxes.php:146
+#: includes/vafpress/admin/metabox/meta_boxes.php:187
+msgid "Designation"
+msgstr ""
+
+#: includes/resource/settings.php:151
+msgid "Enter the designation of the member"
+msgstr ""
+
+#: includes/resource/settings.php:167
+msgid "Enter the facebook url"
+msgstr ""
+
+#: includes/resource/settings.php:181
+msgid "Enter the twitter url"
+msgstr ""
+
+#: includes/resource/settings.php:191
+msgid "Google Plus"
+msgstr ""
+
+#: includes/resource/settings.php:195
+msgid "Enter the google Plus url"
+msgstr ""
+
+#: includes/resource/settings.php:205
+msgid "Project URL"
+msgstr ""
+
+#: includes/resource/settings.php:209
+msgid "Enter the project url"
+msgstr ""
+
+#: includes/resource/settings.php:221
+msgid "Videos URL"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:7
+msgid "Call Out"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:13
+#: includes/resource/shortcodes-zo.php:117
+#: includes/resource/shortcodes-zo.php:237
+#: includes/resource/shortcodes-zo.php:359
+#: includes/resource/shortcodes-zo.php:439
+#: includes/resource/shortcodes-zo.php:569
+#: includes/resource/shortcodes-zo.php:721
+#: includes/resource/shortcodes-zo.php:859
+#: includes/resource/shortcodes-zo.php:935
+#: includes/resource/shortcodes-zo.php:1109
+#: includes/resource/shortcodes-zo.php:1243
+#: includes/resource/shortcodes-zo.php:1379
+#: includes/resource/shortcodes-zo.php:1495
+#: includes/resource/shortcodes-zo.php:1639
+#: includes/resource/shortcodes-zo.php:1783
+#: includes/resource/shortcodes-zo.php:1897
+#: includes/resource/shortcodes-zo.php:1995
+#: includes/resource/shortcodes-zo.php:2041
+msgid "Preshop"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:17
+msgid "show the call out banner."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:29
+#: includes/resource/shortcodes-zo.php:585
+#: includes/resource/shortcodes-zo.php:737
+msgid "Image Link"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:35
+#: includes/resource/shortcodes-zo.php:591
+#: includes/resource/shortcodes-zo.php:743
+msgid "Enter the Image Link"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:47
+#: includes/resource/shortcodes-zo.php:639
+#: includes/resource/shortcodes-zo.php:829 includes/resource/shortcodes.php:703
+#: includes/resource/shortcodes.php:1241 includes/resource/shortcodes.php:1290
+#: includes/resource/shortcodes.php:1392
+#: includes/vafpress/admin/metabox/meta_boxes.php:264
+#: includes/vafpress/admin/metabox/meta_boxes.php:314
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:93
+msgid "Image"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:53
+#: includes/resource/shortcodes-zo.php:645
+#: includes/resource/shortcodes-zo.php:835
+msgid "Enter the Image url"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:65
+#: includes/resource/shortcodes-zo.php:603
+#: includes/resource/shortcodes-zo.php:793
+msgid "Image Title"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:71
+#: includes/resource/shortcodes-zo.php:609
+#: includes/resource/shortcodes-zo.php:799
+msgid "Enter the Image Title"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:83
+msgid " Background Color Check"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:87
+#: includes/resource/shortcodes-zo.php:955
+#: includes/resource/shortcodes-zo.php:973
+msgid "None"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:87
+msgid "Black"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:87
+msgid "Orange"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:89
+msgid "Select the background image color."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:111
+msgid "Pricing tables"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:121
+msgid "show the pricing list."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:137
+#: includes/resource/shortcodes-zo.php:257
+msgid "Price Heading"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:143
+#: includes/resource/shortcodes-zo.php:263
+msgid "Enter the price heading"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:155
+#: includes/resource/shortcodes-zo.php:275
+msgid "Price"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:161
+#: includes/resource/shortcodes-zo.php:281
+msgid "Enter the price"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:173
+#: includes/resource/shortcodes-zo.php:293
+msgid "Features"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:177
+#: includes/resource/shortcodes-zo.php:297
+msgid "Enter One Feature per Line"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:191
+#: includes/resource/shortcodes-zo.php:197
+#: includes/resource/shortcodes-zo.php:311
+#: includes/resource/shortcodes-zo.php:317
+msgid "Enter the button name"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:209
+#: includes/resource/shortcodes-zo.php:331
+msgid "Button link"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:215
+#: includes/resource/shortcodes-zo.php:337
+msgid "Enter the button link"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:231
+msgid "Parchase Lists"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:241
+msgid "show the parchase list."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:353
+#: includes/resource/shortcodes-zo.php:853
+msgid "parallex"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:361
+#: includes/resource/shortcodes-zo.php:861
+msgid "show the Parallex banner."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:373
+#: includes/resource/shortcodes-zo.php:453
+#: includes/resource/shortcodes-zo.php:873
+msgid "Msg Title"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:379
+#: includes/resource/shortcodes-zo.php:459
+#: includes/resource/shortcodes-zo.php:477
+#: includes/resource/shortcodes-zo.php:495
+#: includes/resource/shortcodes-zo.php:879
+msgid "Enter the message title"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:391
+#: includes/resource/shortcodes-zo.php:525
+#: includes/resource/shortcodes-zo.php:891
+msgid "background image"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:395
+#: includes/resource/shortcodes-zo.php:529
+#: includes/resource/shortcodes-zo.php:895
+msgid "Enter the  background image"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:407
+#: includes/resource/shortcodes-zo.php:541
+#: includes/resource/shortcodes-zo.php:907
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:107
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:211
+msgid "Short html Text"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:413
+#: includes/resource/shortcodes-zo.php:547
+#: includes/resource/shortcodes-zo.php:913
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:109
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:213
+msgid "Enter content, you can use html tags"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:433
+msgid "parallex2"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:441
+msgid "show the Parallex 2 banner."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:471
+msgid "Button Link Title Attribute"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:489
+#: includes/resource/shortcodes-zo.php:987
+#: includes/resource/shortcodes-zo.php:1065
+#: includes/resource/shortcodes-zo.php:1125
+#: includes/resource/shortcodes-zo.php:1199
+#: includes/resource/shortcodes-zo.php:1275
+#: includes/resource/shortcodes-zo.php:1329
+#: includes/resource/shortcodes-zo.php:1449
+#: includes/resource/shortcodes-zo.php:1511
+#: includes/resource/shortcodes-zo.php:1597
+#: includes/resource/shortcodes-zo.php:1655
+#: includes/resource/shortcodes-zo.php:1709
+#: includes/resource/shortcodes-zo.php:1853
+#: includes/resource/shortcodes-zo.php:1951
+#: includes/resource/shortcodes-zo.php:2063 includes/resource/shortcodes.php:77
+#: includes/resource/shortcodes.php:299 includes/resource/shortcodes.php:504
+#: includes/resource/shortcodes.php:656 includes/resource/shortcodes.php:695
+#: includes/resource/shortcodes.php:727 includes/resource/shortcodes.php:857
+#: includes/resource/shortcodes.php:931 includes/resource/shortcodes.php:1006
+#: includes/resource/shortcodes.php:1067 includes/resource/shortcodes.php:1136
+#: includes/resource/shortcodes.php:1203 includes/resource/shortcodes.php:1683
+#: includes/resource/shortcodes.php:1844
+#: includes/vafpress/admin/metabox/meta_boxes.php:239
+#: includes/vafpress/admin/metabox/meta_boxes.php:310
+#: includes/vafpress/admin/metabox/meta_boxes.php:355
+#: includes/vafpress/admin/option/option.php:971
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:43
+msgid "Title"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:507
+msgid "Button Link URl"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:513
+msgid "Enter the button link url"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:563
+msgid "Right Small Banner"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:573
+#: includes/resource/shortcodes-zo.php:725
+msgid "show the mini banner."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:621
+#: includes/resource/shortcodes-zo.php:811
+msgid "Banner Button 1 Status"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:625
+#: includes/resource/shortcodes-zo.php:815
+msgid "active"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:625
+#: includes/resource/shortcodes-zo.php:815
+msgid "none"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:627
+#: includes/resource/shortcodes-zo.php:817
+msgid "show button status."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:657
+msgid "Banner Button Link"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:663
+msgid "Enter the banner2 button link"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:675
+msgid "Banner  Button Text"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:681
+msgid "Banner 2 Button Text"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:693
+msgid "Banner  title"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:699
+msgid "Enter the banner2 title"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:715
+msgid "Mini Banner"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:757
+msgid "Banner Button 1  Link"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:763
+msgid "Enter the button Link"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:775
+msgid "Banner Button 1 Text"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:781
+msgid "Enter the button title"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:877
+msgid "Pretty & PreShop"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:911
+msgid ""
+"Find your favorite design and put your personal touch on it before you buy.."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:939
+msgid "Show Service Style 1 in 3 Columns."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:951
+msgid "Do you want to show title on top"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:955
+#: includes/resource/shortcodes-zo.php:973
+msgid "Show"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:957
+msgid "select title if you want to show of top."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:969
+msgid "Show read more button"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:975
+msgid "choose if you want to show read more button."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:991
+msgid "Enter the title."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1003
+msgid "Inner Title"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1007
+msgid "Enter the Inner title."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1025
+#: includes/resource/shortcodes-zo.php:1159
+#: includes/resource/shortcodes-zo.php:1259
+#: includes/resource/shortcodes-zo.php:1411
+#: includes/resource/shortcodes-zo.php:1559
+#: includes/resource/shortcodes-zo.php:1671
+#: includes/resource/shortcodes-zo.php:1815
+#: includes/resource/shortcodes-zo.php:1913
+#: includes/resource/shortcodes-zo.php:2079 includes/resource/shortcodes.php:29
+#: includes/resource/shortcodes.php:123 includes/resource/shortcodes.php:201
+#: includes/resource/shortcodes.php:261 includes/resource/shortcodes.php:345
+#: includes/resource/shortcodes.php:414 includes/resource/shortcodes.php:485
+#: includes/resource/shortcodes.php:617 includes/resource/shortcodes.php:830
+#: includes/resource/shortcodes.php:904 includes/resource/shortcodes.php:986
+#: includes/resource/shortcodes.php:1046 includes/resource/shortcodes.php:1125
+#: includes/resource/shortcodes.php:1183 includes/resource/shortcodes.php:1664
+msgid "Number"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1029
+#: includes/resource/shortcodes-zo.php:1263
+#: includes/resource/shortcodes-zo.php:1415
+#: includes/resource/shortcodes-zo.php:1563
+msgid "Enter Number of Services to Show."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1049
+#: includes/resource/shortcodes-zo.php:1183
+#: includes/resource/shortcodes-zo.php:1313
+#: includes/resource/shortcodes-zo.php:1433
+#: includes/resource/shortcodes-zo.php:1581
+#: includes/resource/shortcodes-zo.php:1693
+#: includes/resource/shortcodes-zo.php:1837
+#: includes/resource/shortcodes-zo.php:1935 includes/resource/shortcodes.php:69
+#: includes/resource/shortcodes.php:280 includes/resource/shortcodes.php:425
+#: includes/resource/shortcodes.php:496 includes/resource/shortcodes.php:648
+#: includes/resource/shortcodes.php:849 includes/resource/shortcodes.php:923
+#: includes/resource/shortcodes.php:998 includes/resource/shortcodes.php:1058
+#: includes/resource/shortcodes.php:1195 includes/resource/shortcodes.php:1675
+msgid "Choose Category."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1061
+#: includes/resource/shortcodes-zo.php:1195
+#: includes/resource/shortcodes-zo.php:1325
+#: includes/resource/shortcodes-zo.php:1445
+#: includes/resource/shortcodes-zo.php:1593
+#: includes/resource/shortcodes-zo.php:1705
+#: includes/resource/shortcodes-zo.php:1849
+#: includes/resource/shortcodes-zo.php:1947 includes/resource/shortcodes.php:75
+#: includes/resource/shortcodes.php:297 includes/resource/shortcodes.php:502
+#: includes/resource/shortcodes.php:654 includes/resource/shortcodes.php:855
+#: includes/resource/shortcodes.php:929 includes/resource/shortcodes.php:1004
+#: includes/resource/shortcodes.php:1065 includes/resource/shortcodes.php:1134
+#: includes/resource/shortcodes.php:1201 includes/resource/shortcodes.php:1681
+msgid "Order By"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1065
+#: includes/resource/shortcodes-zo.php:1199
+#: includes/resource/shortcodes-zo.php:1329
+#: includes/resource/shortcodes-zo.php:1449
+#: includes/resource/shortcodes-zo.php:1597
+#: includes/resource/shortcodes-zo.php:1709
+#: includes/resource/shortcodes-zo.php:1853
+#: includes/resource/shortcodes-zo.php:1951 includes/resource/shortcodes.php:77
+#: includes/resource/shortcodes.php:299 includes/resource/shortcodes.php:504
+#: includes/resource/shortcodes.php:656 includes/resource/shortcodes.php:857
+#: includes/resource/shortcodes.php:931 includes/resource/shortcodes.php:1006
+#: includes/resource/shortcodes.php:1067 includes/resource/shortcodes.php:1136
+#: includes/resource/shortcodes.php:1203 includes/resource/shortcodes.php:1683
+msgid "Date"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1065
+#: includes/resource/shortcodes-zo.php:1199
+#: includes/resource/shortcodes-zo.php:1329
+#: includes/resource/shortcodes-zo.php:1449
+#: includes/resource/shortcodes-zo.php:1597
+#: includes/resource/shortcodes-zo.php:1709
+#: includes/resource/shortcodes-zo.php:1853
+#: includes/resource/shortcodes-zo.php:1951 includes/resource/shortcodes.php:77
+#: includes/resource/shortcodes.php:299 includes/resource/shortcodes.php:504
+#: includes/resource/shortcodes.php:656 includes/resource/shortcodes.php:857
+#: includes/resource/shortcodes.php:931 includes/resource/shortcodes.php:1006
+#: includes/resource/shortcodes.php:1067 includes/resource/shortcodes.php:1136
+#: includes/resource/shortcodes.php:1203 includes/resource/shortcodes.php:1683
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:29
+msgid "Author"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1065
+#: includes/resource/shortcodes-zo.php:1199
+#: includes/resource/shortcodes-zo.php:1329
+#: includes/resource/shortcodes-zo.php:1449
+#: includes/resource/shortcodes-zo.php:1597
+#: includes/resource/shortcodes-zo.php:1709
+#: includes/resource/shortcodes-zo.php:1853
+#: includes/resource/shortcodes-zo.php:1951 includes/resource/shortcodes.php:77
+#: includes/resource/shortcodes.php:299 includes/resource/shortcodes.php:504
+#: includes/resource/shortcodes.php:656 includes/resource/shortcodes.php:857
+#: includes/resource/shortcodes.php:931 includes/resource/shortcodes.php:1006
+#: includes/resource/shortcodes.php:1067 includes/resource/shortcodes.php:1136
+#: includes/resource/shortcodes.php:1203 includes/resource/shortcodes.php:1683
+msgid "Comment Count"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1065
+#: includes/resource/shortcodes-zo.php:1199
+#: includes/resource/shortcodes-zo.php:1329
+#: includes/resource/shortcodes-zo.php:1449
+#: includes/resource/shortcodes-zo.php:1597
+#: includes/resource/shortcodes-zo.php:1709
+#: includes/resource/shortcodes-zo.php:1853
+#: includes/resource/shortcodes-zo.php:1951 includes/resource/shortcodes.php:77
+#: includes/resource/shortcodes.php:299 includes/resource/shortcodes.php:504
+#: includes/resource/shortcodes.php:656 includes/resource/shortcodes.php:857
+#: includes/resource/shortcodes.php:931 includes/resource/shortcodes.php:1006
+#: includes/resource/shortcodes.php:1067 includes/resource/shortcodes.php:1136
+#: includes/resource/shortcodes.php:1203 includes/resource/shortcodes.php:1683
+msgid "Random"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1067
+#: includes/resource/shortcodes-zo.php:1087
+#: includes/resource/shortcodes-zo.php:1201
+#: includes/resource/shortcodes-zo.php:1219
+#: includes/resource/shortcodes-zo.php:1331
+#: includes/resource/shortcodes-zo.php:1349
+#: includes/resource/shortcodes-zo.php:1451
+#: includes/resource/shortcodes-zo.php:1469
+#: includes/resource/shortcodes-zo.php:1599
+#: includes/resource/shortcodes-zo.php:1617
+#: includes/resource/shortcodes-zo.php:1711
+#: includes/resource/shortcodes-zo.php:1729
+#: includes/resource/shortcodes-zo.php:1855
+#: includes/resource/shortcodes-zo.php:1873
+#: includes/resource/shortcodes-zo.php:1953
+#: includes/resource/shortcodes-zo.php:1971 includes/resource/shortcodes.php:78
+#: includes/resource/shortcodes.php:87 includes/resource/shortcodes.php:154
+#: includes/resource/shortcodes.php:221 includes/resource/shortcodes.php:300
+#: includes/resource/shortcodes.php:309 includes/resource/shortcodes.php:356
+#: includes/resource/shortcodes.php:456 includes/resource/shortcodes.php:505
+#: includes/resource/shortcodes.php:525 includes/resource/shortcodes.php:657
+#: includes/resource/shortcodes.php:666 includes/resource/shortcodes.php:858
+#: includes/resource/shortcodes.php:867 includes/resource/shortcodes.php:932
+#: includes/resource/shortcodes.php:941 includes/resource/shortcodes.php:1007
+#: includes/resource/shortcodes.php:1016 includes/resource/shortcodes.php:1068
+#: includes/resource/shortcodes.php:1088 includes/resource/shortcodes.php:1137
+#: includes/resource/shortcodes.php:1146 includes/resource/shortcodes.php:1204
+#: includes/resource/shortcodes.php:1213 includes/resource/shortcodes.php:1684
+#: includes/resource/shortcodes.php:1693
+msgid "Enter the sorting order."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1081
+#: includes/resource/shortcodes-zo.php:1213
+#: includes/resource/shortcodes-zo.php:1343
+#: includes/resource/shortcodes-zo.php:1463
+#: includes/resource/shortcodes-zo.php:1611
+#: includes/resource/shortcodes-zo.php:1723
+#: includes/resource/shortcodes-zo.php:1867
+#: includes/resource/shortcodes-zo.php:1965 includes/resource/shortcodes.php:84
+#: includes/resource/shortcodes.php:151 includes/resource/shortcodes.php:218
+#: includes/resource/shortcodes.php:306 includes/resource/shortcodes.php:353
+#: includes/resource/shortcodes.php:453 includes/resource/shortcodes.php:522
+#: includes/resource/shortcodes.php:663 includes/resource/shortcodes.php:864
+#: includes/resource/shortcodes.php:938 includes/resource/shortcodes.php:1013
+#: includes/resource/shortcodes.php:1085 includes/resource/shortcodes.php:1143
+#: includes/resource/shortcodes.php:1210 includes/resource/shortcodes.php:1690
+msgid "Order"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1085
+#: includes/resource/shortcodes-zo.php:1217
+#: includes/resource/shortcodes-zo.php:1347
+#: includes/resource/shortcodes-zo.php:1467
+#: includes/resource/shortcodes-zo.php:1615
+#: includes/resource/shortcodes-zo.php:1727
+#: includes/resource/shortcodes-zo.php:1871
+#: includes/resource/shortcodes-zo.php:1969 includes/resource/shortcodes.php:86
+#: includes/resource/shortcodes.php:153 includes/resource/shortcodes.php:220
+#: includes/resource/shortcodes.php:308 includes/resource/shortcodes.php:355
+#: includes/resource/shortcodes.php:455 includes/resource/shortcodes.php:524
+#: includes/resource/shortcodes.php:665 includes/resource/shortcodes.php:866
+#: includes/resource/shortcodes.php:940 includes/resource/shortcodes.php:1015
+#: includes/resource/shortcodes.php:1087 includes/resource/shortcodes.php:1145
+#: includes/resource/shortcodes.php:1212 includes/resource/shortcodes.php:1692
+msgid "Ascending"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1085
+#: includes/resource/shortcodes-zo.php:1217
+#: includes/resource/shortcodes-zo.php:1347
+#: includes/resource/shortcodes-zo.php:1467
+#: includes/resource/shortcodes-zo.php:1615
+#: includes/resource/shortcodes-zo.php:1727
+#: includes/resource/shortcodes-zo.php:1871
+#: includes/resource/shortcodes-zo.php:1969 includes/resource/shortcodes.php:86
+#: includes/resource/shortcodes.php:153 includes/resource/shortcodes.php:220
+#: includes/resource/shortcodes.php:308 includes/resource/shortcodes.php:355
+#: includes/resource/shortcodes.php:455 includes/resource/shortcodes.php:524
+#: includes/resource/shortcodes.php:665 includes/resource/shortcodes.php:866
+#: includes/resource/shortcodes.php:940 includes/resource/shortcodes.php:1015
+#: includes/resource/shortcodes.php:1087 includes/resource/shortcodes.php:1145
+#: includes/resource/shortcodes.php:1212 includes/resource/shortcodes.php:1692
+msgid "Descending"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1113
+msgid "Show Team."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1129
+#: includes/resource/shortcodes.php:1486 includes/resource/shortcodes.php:1516
+#: includes/resource/shortcodes.php:1547 includes/resource/shortcodes.php:1722
+#: includes/resource/shortcodes.php:1752 includes/resource/shortcodes.php:1813
+msgid "Enter title."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1141
+msgid "Title Inner"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1145
+msgid "Enter Inner Title ."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1163
+msgid "Enter of Teams to show."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1237
+msgid "Testimonials ( 2 Columns)"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1247
+msgid "Show testimonials Style 1 in 2 Columns."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1279
+msgid "Enter Title."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1291
+#: includes/resource/shortcodes.php:1383
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:75
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:193
+msgid "Tagline"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1295
+msgid "Enter the tagline."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1373
+msgid "Products ( 2 Columns)"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1383
+#: includes/resource/shortcodes-zo.php:1643
+msgid "Show Featured Products ."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1395
+msgid "Featured Posts Title"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1399
+msgid "Enter Feature Post title."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1489
+msgid " Best Sellers"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1499
+msgid "Show best selling products ."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1515
+msgid "Enter the title on the top"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1527
+msgid "Set Old Price of items"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1531
+msgid "Enter the old price"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1543
+msgid "Set the new price of the items"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1547
+msgid "Enter the new price"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1633
+msgid "Middle slider  Products "
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1659
+msgid "Enter Slider title."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1675
+msgid "Enter Number of Products to Show."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1743
+msgid "Product's Old Price"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1747
+msgid "Enter Product's Old Price."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1759
+msgid "Product's New Price"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1763
+msgid "Enter Product's New Price."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1777
+msgid "From Blog"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1787
+#: includes/resource/shortcodes-zo.php:1901
+msgid "Show Posts from the blog."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1799
+msgid "Enter title"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1803
+#: includes/resource/shortcodes.php:254
+msgid "Enter blog title."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1819
+#: includes/resource/shortcodes-zo.php:1917
+msgid "Enter Number of Blog Posts to show."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1891
+msgid "top-blog-posts"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:1989
+msgid "Fun Facts"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:2005
+msgid "Add Fun Facts to your theme."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:2017
+#: includes/resource/shortcodes.php:956
+msgid "Background Image"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:2021
+msgid "Upload Background Image"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:2035
+msgid "Fact"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:2051
+msgid "Add Fact."
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:2067
+msgid "Enter Title for Skills Section"
+msgstr ""
+
+#: includes/resource/shortcodes-zo.php:2083
+msgid "Enter Number"
+msgstr ""
+
+#: includes/resource/shortcodes.php:7
+msgid "Great Deals"
+msgstr ""
+
+#: includes/resource/shortcodes.php:10 includes/resource/shortcodes.php:105
+#: includes/resource/shortcodes.php:183 includes/resource/shortcodes.php:242
+#: includes/resource/shortcodes.php:327 includes/resource/shortcodes.php:396
+#: includes/resource/shortcodes.php:475 includes/resource/shortcodes.php:535
+#: includes/resource/shortcodes.php:598 includes/resource/shortcodes.php:684
+#: includes/resource/shortcodes.php:716 includes/resource/shortcodes.php:748
+#: includes/resource/shortcodes.php:811 includes/resource/shortcodes.php:885
+#: includes/resource/shortcodes.php:967 includes/resource/shortcodes.php:1027
+#: includes/resource/shortcodes.php:1106 includes/resource/shortcodes.php:1164
+#: includes/resource/shortcodes.php:1222 includes/resource/shortcodes.php:1271
+#: includes/resource/shortcodes.php:1320 includes/resource/shortcodes.php:1364
+#: includes/resource/shortcodes.php:1427 includes/resource/shortcodes.php:1474
+#: includes/resource/shortcodes.php:1504 includes/resource/shortcodes.php:1535
+#: includes/resource/shortcodes.php:1622 includes/resource/shortcodes.php:1710
+#: includes/resource/shortcodes.php:1740 includes/resource/shortcodes.php:1801
+#: includes/resource/shortcodes.php:1839 includes/resource/shortcodes.php:1884
+msgid "Comre"
+msgstr ""
+
+#: includes/resource/shortcodes.php:12
+msgid "Show popular deals."
+msgstr ""
+
+#: includes/resource/shortcodes.php:20 includes/resource/shortcodes.php:115
+#: includes/resource/shortcodes.php:193 includes/resource/shortcodes.php:252
+#: includes/resource/shortcodes.php:337 includes/resource/shortcodes.php:406
+#: includes/resource/shortcodes.php:545 includes/resource/shortcodes.php:608
+#: includes/resource/shortcodes.php:758 includes/resource/shortcodes.php:821
+#: includes/resource/shortcodes.php:895 includes/resource/shortcodes.php:977
+#: includes/resource/shortcodes.php:1037 includes/resource/shortcodes.php:1116
+#: includes/resource/shortcodes.php:1174 includes/resource/shortcodes.php:1232
+#: includes/resource/shortcodes.php:1281 includes/resource/shortcodes.php:1374
+#: includes/resource/shortcodes.php:1632
+msgid "Enter  title"
+msgstr ""
+
+#: includes/resource/shortcodes.php:22
+msgid "Enter Deals title."
+msgstr ""
+
+#: includes/resource/shortcodes.php:31
+msgid "Enter Number of Deals Posts to show."
+msgstr ""
+
+#: includes/resource/shortcodes.php:38
+msgid "coupon column"
+msgstr ""
+
+#: includes/resource/shortcodes.php:40 includes/resource/shortcodes.php:50
+#: includes/resource/shortcodes.php:143 includes/resource/shortcodes.php:289
+#: includes/resource/shortcodes.php:365 includes/resource/shortcodes.php:375
+#: includes/resource/shortcodes.php:434 includes/resource/shortcodes.php:444
+#: includes/resource/shortcodes.php:514 includes/resource/shortcodes.php:637
+#: includes/resource/shortcodes.php:1077
+msgid "Select"
+msgstr ""
+
+#: includes/resource/shortcodes.php:40 includes/resource/shortcodes.php:143
+#: includes/resource/shortcodes.php:289 includes/resource/shortcodes.php:375
+#: includes/resource/shortcodes.php:434 includes/resource/shortcodes.php:444
+#: includes/resource/shortcodes.php:514 includes/resource/shortcodes.php:637
+#: includes/resource/shortcodes.php:1077
+msgid "4 Column"
+msgstr ""
+
+#: includes/resource/shortcodes.php:40 includes/resource/shortcodes.php:143
+#: includes/resource/shortcodes.php:289 includes/resource/shortcodes.php:375
+#: includes/resource/shortcodes.php:434 includes/resource/shortcodes.php:444
+#: includes/resource/shortcodes.php:514 includes/resource/shortcodes.php:637
+#: includes/resource/shortcodes.php:1077
+msgid "3 Column"
+msgstr ""
+
+#: includes/resource/shortcodes.php:41
+msgid "Enter the Coupon Column."
+msgstr ""
+
+#: includes/resource/shortcodes.php:48 includes/resource/shortcodes.php:363
+msgid "Deal view"
+msgstr ""
+
+#: includes/resource/shortcodes.php:50 includes/resource/shortcodes.php:365
+#: includes/vafpress/admin/taxonomy/taxonomy.php:65
+msgid "Grid View"
+msgstr ""
+
+#: includes/resource/shortcodes.php:50 includes/resource/shortcodes.php:365
+#: includes/vafpress/admin/taxonomy/taxonomy.php:70
+msgid "List View"
+msgstr ""
+
+#: includes/resource/shortcodes.php:51 includes/resource/shortcodes.php:366
+msgid "Enter the deal view."
+msgstr ""
+
+#: includes/resource/shortcodes.php:58
+msgid "Number on Load more"
+msgstr ""
+
+#: includes/resource/shortcodes.php:60
+msgid "Enter Number of Deals Posts on Load more."
+msgstr ""
+
+#: includes/resource/shortcodes.php:93 includes/resource/shortcodes.php:315
+#: includes/resource/shortcodes.php:672 includes/resource/shortcodes.php:873
+#: includes/resource/shortcodes.php:947 includes/resource/shortcodes.php:1094
+#: includes/resource/shortcodes.php:1152
+msgid "Extra Options"
+msgstr ""
+
+#: includes/resource/shortcodes.php:95
+msgid "Show Label"
+msgstr ""
+
+#: includes/resource/shortcodes.php:95
+msgid "Show Get Coupon Code"
+msgstr ""
+
+#: includes/resource/shortcodes.php:96 includes/resource/shortcodes.php:318
+#: includes/resource/shortcodes.php:675 includes/resource/shortcodes.php:876
+#: includes/resource/shortcodes.php:950 includes/resource/shortcodes.php:1097
+#: includes/resource/shortcodes.php:1155
+msgid "Choose extra options."
+msgstr ""
+
+#: includes/resource/shortcodes.php:102
+msgid "Featured Categories"
+msgstr ""
+
+#: includes/resource/shortcodes.php:107 includes/resource/shortcodes.php:185
+msgid "Show featured Categories."
+msgstr ""
+
+#: includes/resource/shortcodes.php:117 includes/resource/shortcodes.php:195
+#: includes/resource/shortcodes.php:339 includes/resource/shortcodes.php:408
+#: includes/resource/shortcodes.php:547 includes/resource/shortcodes.php:610
+#: includes/resource/shortcodes.php:760 includes/resource/shortcodes.php:823
+#: includes/resource/shortcodes.php:897 includes/resource/shortcodes.php:979
+#: includes/resource/shortcodes.php:1039 includes/resource/shortcodes.php:1176
+#: includes/resource/shortcodes.php:1234 includes/resource/shortcodes.php:1283
+#: includes/resource/shortcodes.php:1376
+msgid "Enter portfolio title."
+msgstr ""
+
+#: includes/resource/shortcodes.php:125 includes/resource/shortcodes.php:203
+#: includes/resource/shortcodes.php:347 includes/resource/shortcodes.php:416
+msgid "Enter number of categories to show."
+msgstr ""
+
+#: includes/resource/shortcodes.php:131 includes/resource/shortcodes.php:209
+#: includes/resource/shortcodes.php:384 includes/resource/shortcodes.php:462
+msgid "Sort By"
+msgstr ""
+
+#: includes/resource/shortcodes.php:133 includes/resource/shortcodes.php:211
+#: includes/resource/shortcodes.php:386 includes/resource/shortcodes.php:464
+msgid "Term ID"
+msgstr ""
+
+#: includes/resource/shortcodes.php:133 includes/resource/shortcodes.php:211
+#: includes/resource/shortcodes.php:386 includes/resource/shortcodes.php:464
+msgid "Slug"
+msgstr ""
+
+#: includes/resource/shortcodes.php:133 includes/resource/shortcodes.php:211
+#: includes/resource/shortcodes.php:386 includes/resource/shortcodes.php:464
+msgid "Post Count"
+msgstr ""
+
+#: includes/resource/shortcodes.php:133 includes/resource/shortcodes.php:211
+#: includes/resource/shortcodes.php:386 includes/resource/shortcodes.php:464
+msgid "Term Group"
+msgstr ""
+
+#: includes/resource/shortcodes.php:134 includes/resource/shortcodes.php:212
+#: includes/resource/shortcodes.php:387 includes/resource/shortcodes.php:465
+msgid "Choose the sorting order."
+msgstr ""
+
+#: includes/resource/shortcodes.php:141
+msgid "Feature Column"
+msgstr ""
+
+#: includes/resource/shortcodes.php:144
+msgid "Enter the feature Column."
+msgstr ""
+
+#: includes/resource/shortcodes.php:160 includes/resource/shortcodes.php:163
+#: includes/resource/shortcodes.php:227 includes/resource/shortcodes.php:230
+msgid "Hide Empty Categories"
+msgstr ""
+
+#: includes/resource/shortcodes.php:162 includes/resource/shortcodes.php:229
+msgid "Hide Empty cat"
+msgstr ""
+
+#: includes/resource/shortcodes.php:169
+msgid "What to show"
+msgstr ""
+
+#: includes/resource/shortcodes.php:171
+msgid "Select Taxonomy"
+msgstr ""
+
+#: includes/resource/shortcodes.php:171
+msgid "Store Category"
+msgstr ""
+
+#: includes/resource/shortcodes.php:171
+msgid "Coupons Category"
+msgstr ""
+
+#: includes/resource/shortcodes.php:171
+msgid "Wocommerce  Category"
+msgstr ""
+
+#: includes/resource/shortcodes.php:172
+msgid "Choose Taxonomy."
+msgstr ""
+
+#: includes/resource/shortcodes.php:180
+msgid "Featured Categories 2"
+msgstr ""
+
+#: includes/resource/shortcodes.php:239
+msgid "Recent From Blog"
+msgstr ""
+
+#: includes/resource/shortcodes.php:244
+msgid "Show blog posts."
+msgstr ""
+
+#: includes/resource/shortcodes.php:263
+msgid "Enter Number of blog Posts to show."
+msgstr ""
+
+#: includes/resource/shortcodes.php:269 includes/resource/shortcodes.php:562
+#: includes/resource/shortcodes.php:838
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/resource/shortcodes.php:271 includes/resource/shortcodes.php:564
+msgid "Enter words limit."
+msgstr ""
+
+#: includes/resource/shortcodes.php:287
+msgid "Blog Column"
+msgstr ""
+
+#: includes/resource/shortcodes.php:289
+msgid "2 Column"
+msgstr ""
+
+#: includes/resource/shortcodes.php:290
+msgid "Enter the blog Column."
+msgstr ""
+
+#: includes/resource/shortcodes.php:317
+msgid "Show Meta Info"
+msgstr ""
+
+#: includes/resource/shortcodes.php:317
+msgid "Hide excerpt"
+msgstr ""
+
+#: includes/resource/shortcodes.php:324
+msgid "Top Deals of the Week"
+msgstr ""
+
+#: includes/resource/shortcodes.php:329
+msgid "Show Top deals of the week."
+msgstr ""
+
+#: includes/resource/shortcodes.php:373
+msgid "Deal Column"
+msgstr ""
+
+#: includes/resource/shortcodes.php:375 includes/resource/shortcodes.php:637
+#: includes/resource/shortcodes.php:1077
+msgid "5 Column"
+msgstr ""
+
+#: includes/resource/shortcodes.php:376
+msgid "Enter the deal Column."
+msgstr ""
+
+#: includes/resource/shortcodes.php:393
+msgid "Top Offers"
+msgstr ""
+
+#: includes/resource/shortcodes.php:398
+msgid "Show todays top offers."
+msgstr ""
+
+#: includes/resource/shortcodes.php:432
+msgid "top offer column"
+msgstr ""
+
+#: includes/resource/shortcodes.php:435 includes/resource/shortcodes.php:445
+#: includes/resource/shortcodes.php:515
+msgid "Enter the offer Column."
+msgstr ""
+
+#: includes/resource/shortcodes.php:442 includes/resource/shortcodes.php:512
+msgid "Offer Column"
+msgstr ""
+
+#: includes/resource/shortcodes.php:472
+msgid "Popular Offers"
+msgstr ""
+
+#: includes/resource/shortcodes.php:477
+msgid "Show popular offers."
+msgstr ""
+
+#: includes/resource/shortcodes.php:487 includes/resource/shortcodes.php:619
+#: includes/resource/shortcodes.php:832 includes/resource/shortcodes.php:906
+#: includes/resource/shortcodes.php:988 includes/resource/shortcodes.php:1048
+#: includes/resource/shortcodes.php:1185
+msgid "Enter Number of Portfolio Posts to show."
+msgstr ""
+
+#: includes/resource/shortcodes.php:532
+msgid "Parallax"
+msgstr ""
+
+#: includes/resource/shortcodes.php:537
+msgid "Show parallax section."
+msgstr ""
+
+#: includes/resource/shortcodes.php:554
+msgid "Excerpt"
+msgstr ""
+
+#: includes/resource/shortcodes.php:556
+msgid "Enter the text to show."
+msgstr ""
+
+#: includes/resource/shortcodes.php:570
+msgid "Buttons"
+msgstr ""
+
+#: includes/resource/shortcodes.php:572
+msgid "Choose HTML of buttons."
+msgstr ""
+
+#: includes/resource/shortcodes.php:578 includes/resource/shortcodes.php:1699
+msgid "Front Image"
+msgstr ""
+
+#: includes/resource/shortcodes.php:580
+msgid "Choose the foreground image."
+msgstr ""
+
+#: includes/resource/shortcodes.php:586 includes/resource/shortcodes.php:800
+msgid "BG Image"
+msgstr ""
+
+#: includes/resource/shortcodes.php:588
+msgid "Choose the background Image."
+msgstr ""
+
+#: includes/resource/shortcodes.php:600 includes/resource/shortcodes.php:887
+msgid "Show testimonials."
+msgstr ""
+
+#: includes/resource/shortcodes.php:625
+msgid "Excerpt Lenght"
+msgstr ""
+
+#: includes/resource/shortcodes.php:627
+msgid "Enter the excerpt Lenght."
+msgstr ""
+
+#: includes/resource/shortcodes.php:635
+msgid "Testimonials column"
+msgstr ""
+
+#: includes/resource/shortcodes.php:638
+msgid "Enter the testimonial Column."
+msgstr ""
+
+#: includes/resource/shortcodes.php:674 includes/resource/shortcodes.php:875
+#: includes/resource/shortcodes.php:949
+msgid "Show designation"
+msgstr ""
+
+#: includes/resource/shortcodes.php:681
+msgid "Best Feature"
+msgstr ""
+
+#: includes/resource/shortcodes.php:689
+msgid "Add Location Fact."
+msgstr ""
+
+#: includes/resource/shortcodes.php:697
+msgid "Enter the Title to show."
+msgstr ""
+
+#: includes/resource/shortcodes.php:705 includes/resource/shortcodes.php:1394
+msgid "Choose image."
+msgstr ""
+
+#: includes/resource/shortcodes.php:713
+msgid "Best Features"
+msgstr ""
+
+#: includes/resource/shortcodes.php:721
+msgid "Add Best Features to your theme."
+msgstr ""
+
+#: includes/resource/shortcodes.php:729
+msgid "Enter the title for help."
+msgstr ""
+
+#: includes/resource/shortcodes.php:737
+msgid "Enter the Description for help."
+msgstr ""
+
+#: includes/resource/shortcodes.php:745
+msgid "CAll to Action"
+msgstr ""
+
+#: includes/resource/shortcodes.php:750 includes/resource/shortcodes.php:1429
+msgid "Show call to action."
+msgstr ""
+
+#: includes/resource/shortcodes.php:767 includes/resource/shortcodes.php:1454
+msgid "Button Text"
+msgstr ""
+
+#: includes/resource/shortcodes.php:769
+msgid "Enter the button text."
+msgstr ""
+
+#: includes/resource/shortcodes.php:776 includes/resource/shortcodes.php:1462
+msgid "Button Link"
+msgstr ""
+
+#: includes/resource/shortcodes.php:778 includes/resource/shortcodes.php:1464
+msgid "Enter button link."
+msgstr ""
+
+#: includes/resource/shortcodes.php:784
+msgid "Title 2"
+msgstr ""
+
+#: includes/resource/shortcodes.php:786
+msgid "Enter the title 2."
+msgstr ""
+
+#: includes/resource/shortcodes.php:792
+#: includes/vafpress/admin/metabox/meta_boxes.php:305
+msgid "Images"
+msgstr ""
+
+#: includes/resource/shortcodes.php:794
+msgid "Choose images."
+msgstr ""
+
+#: includes/resource/shortcodes.php:802
+msgid "Choose bg image."
+msgstr ""
+
+#: includes/resource/shortcodes.php:808
+msgid "Our Team"
+msgstr ""
+
+#: includes/resource/shortcodes.php:813
+msgid "Show team members."
+msgstr ""
+
+#: includes/resource/shortcodes.php:840
+msgid "Enter text limit"
+msgstr ""
+
+#: includes/resource/shortcodes.php:875
+msgid "Show Excerpt"
+msgstr ""
+
+#: includes/resource/shortcodes.php:875
+msgid "Show Social Icons"
+msgstr ""
+
+#: includes/resource/shortcodes.php:882
+msgid "Testimonials Style 2"
+msgstr ""
+
+#: includes/resource/shortcodes.php:912 includes/resource/shortcodes.php:1656
+msgid "Text Limit"
+msgstr ""
+
+#: includes/resource/shortcodes.php:914
+msgid "Enter text limmit to show."
+msgstr ""
+
+#: includes/resource/shortcodes.php:958
+msgid "Choose the bg image."
+msgstr ""
+
+#: includes/resource/shortcodes.php:964
+msgid "Our Partners"
+msgstr ""
+
+#: includes/resource/shortcodes.php:969
+msgid "Show partners or clients."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1024
+#: includes/vafpress/admin/option/option.php:192
+msgid "Products"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1029
+msgid "Show Products."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1075
+msgid "Products column"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1078
+msgid "Enter the products Column."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1096
+msgid "Show price"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1103
+msgid "Products By Category"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1108
+msgid "Show products by category."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1118
+msgid "Enter product title."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1127
+msgid "Enter Number of Product Posts to show."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1154
+msgid "Show \"Shop Now\" button"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1161
+msgid "Products By Stores"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1166
+msgid "Show products by store."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1219
+msgid "Sign Up Form"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1224 includes/resource/shortcodes.php:1273
+msgid "Show sign up form."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1243 includes/resource/shortcodes.php:1292
+msgid "Choose the title."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1250 includes/resource/shortcodes.php:1299
+#: includes/resource/shortcodes.php:1400 includes/resource/shortcodes.php:1493
+#: includes/resource/shortcodes.php:1523 includes/resource/shortcodes.php:1554
+#: includes/resource/shortcodes.php:1729 includes/resource/shortcodes.php:1820
+msgid "Text"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1252 includes/resource/shortcodes.php:1301
+#: includes/resource/shortcodes.php:1402
+msgid "Enter text."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1259 includes/resource/shortcodes.php:1308
+msgid "Social Connect Position"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1261 includes/resource/shortcodes.php:1310
+msgid "Bottom"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1261 includes/resource/shortcodes.php:1310
+msgid "Top"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1262 includes/resource/shortcodes.php:1311
+msgid "Social connect position whether at top or bottom."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1268
+msgid "Sign In Form"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1317
+msgid "Comre My Account"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1322
+msgid "Show account management system."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1330
+msgid "Enable Blog Posts Tab"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1332
+msgid "Enable Blog Post Tab"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1333
+msgid "Enable or disable blog post tab."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1340 includes/resource/shortcodes.php:1342
+msgid "Enable Coupons Tab"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1343
+msgid "Enable or disable coupons management tab."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1350 includes/resource/shortcodes.php:1352
+msgid "Enable Store Tab"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1353
+msgid "Enable or disable store management tab."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1361
+msgid "Submit Coupon"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1366
+msgid "submit coupon form."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1385
+msgid "Enter tagline."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1408
+msgid "Sub Title"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1410
+msgid "Enter sub title."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1416
+msgid "Sub Tagline"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1418
+msgid "Enter sub tagline."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1424
+msgid "CAll to Action 2"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1437
+msgid "Enter Text"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1439
+msgid "Enter cotnent."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1446
+msgid "Background Color"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1448
+msgid "Choose bg color."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1456
+msgid "Enter button text."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1471
+msgid "Drop Cap"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1476 includes/resource/shortcodes.php:1506
+msgid "Show drop Cap."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1484 includes/resource/shortcodes.php:1514
+#: includes/resource/shortcodes.php:1545 includes/resource/shortcodes.php:1720
+#: includes/resource/shortcodes.php:1750 includes/resource/shortcodes.php:1811
+msgid "Enter Title"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1495 includes/resource/shortcodes.php:1525
+#: includes/resource/shortcodes.php:1731 includes/resource/shortcodes.php:1792
+#: includes/resource/shortcodes.php:1822
+msgid "Enter Content."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1501
+msgid "Drop Cap_2"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1532
+msgid "Progress Bar"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1537
+msgid "Show progress bar."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1556
+msgid "Enter Content like ( Heading | 50% ) one progress bar per line."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1619
+msgid "Comre Community"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1624
+msgid "Show comre community."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1634 includes/resource/shortcodes.php:1642
+#: includes/resource/shortcodes.php:1650
+msgid "Enter section title."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1640
+msgid "Sub  title"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1648
+msgid "title 2"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1658
+msgid "Enter text limit."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1666
+msgid "Enter number of posts to show."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1701
+msgid "Choos the images."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1707
+msgid "Google Map"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1712
+msgid "Show google map."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1737
+msgid "Get Touch"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1742
+msgid "Get in Touch."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1760
+msgid "Enter Description Content."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1768
+msgid "Enter the address."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1776
+msgid "Enter the email address."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1782
+msgid "Phone"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1784
+msgid "Enter the phone."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1790
+msgid "social media html"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1798
+msgid "Contact Form"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1803
+msgid "Contact Form."
+msgstr ""
+
+#: includes/resource/shortcodes.php:1832
+msgid "Price Table"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1838
+msgid "show pricing table"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1846
+msgid "Enter the title for fun facts area"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1850
+msgid "Discount"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1852
+msgid "Enter the count either in price or percentage"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1856
+msgid "Duration"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1858
+msgid "Enter the duration"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1862
+msgid "Button Label"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1864
+msgid "Enter the 'Order Now' button label"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1868
+msgid "Button LInk"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1870
+msgid "Enter the 'Order Now' button link"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1879
+msgid "Price Table Features"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1889
+#: includes/vafpress/admin/metabox/meta_boxes.php:244
+#: includes/vafpress/admin/metabox/meta_boxes.php:321
+#: includes/vafpress/admin/metabox/meta_boxes.php:366
+msgid "Content"
+msgstr ""
+
+#: includes/resource/shortcodes.php:1891
+msgid "Add the pricing table features"
+msgstr ""
+
+#: includes/resource/views/menu_fields.php:3
+msgid "Show Mega Menu Options"
+msgstr ""
+
+#: includes/resource/views/menu_fields.php:23
+msgid "Submenu Type"
+msgstr ""
+
+#: includes/resource/views/menu_fields.php:27
+msgid "Standard Dropdown"
+msgstr ""
+
+#: includes/resource/views/menu_fields.php:27
+msgid "Widgets area"
+msgstr ""
+
+#: includes/resource/views/menu_fields.php:29
+msgid "Multicolumn Dropdown"
+msgstr ""
+
+#: includes/resource/views/menu_fields.php:61
+msgid "Columns"
+msgstr ""
+
+#: includes/resource/views/menu_fields.php:93
+msgid "Select Sidebar"
+msgstr ""
+
+#: includes/resource/views/menu_fields.php:99
+#: includes/vafpress/data/sources.php:545
+msgid "No Sidebar"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:309
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:109
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:311
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:111
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:313
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:113
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:315
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:337
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:137
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:339
+msgid "Return to the dashboard"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:341
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3681
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:139
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:343
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3077
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:345
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:347
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2171
+msgid "External Link"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2181
+msgid "Private Repository"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2187
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2195
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2201
+msgid "Required"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2201
+msgid "Recommended"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2207
+msgid "Not Installed"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2211
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2551
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2583
+msgid "Plugin"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2585
+msgid "Source"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2587
+msgid "Type"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2589
+msgid "Status"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2625
+msgid "Install"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2627
+msgid "Activate"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3647
+msgid "Install package not available."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3649
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3651
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3653
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3655
+msgid "Plugin install failed."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3657
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3679
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3899
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3901
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3901
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3919
+msgid "Show Details"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3901
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3919
+msgid "Hide Details"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3903
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3905
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3913
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3915
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3917
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3919
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3921
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3923
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:4105
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:115
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:141
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/parsers.php:42
+#: includes/thirdparty/wordpress-importer/parsers.php:72
+#: includes/thirdparty/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/parsers.php:84
+#: includes/thirdparty/wordpress-importer/parsers.php:89
+#: includes/thirdparty/wordpress-importer/parsers.php:279
+#: includes/thirdparty/wordpress-importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:134
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:143
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:194
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:198
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:511
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/thirdparty/wordpress-importer/wordpress-importer.php:1130
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: includes/update/update_theme.php:60
+#, php-format
+msgid ""
+"<strong>%s Theme Notice:</strong> Please enter a valid <a href=\"%s"
+"\">purchase code and themeforest username</a> to get automatic theme update"
+msgstr ""
+
+#: includes/update/update_theme.php:145
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: includes/update/update_theme.php:150
+msgid "An unknown error occurred"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:9
+msgid "Layout Settings"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:17
+#: includes/vafpress/admin/option/option.php:665
+#: includes/vafpress/admin/option/option.php:730
+#: includes/vafpress/admin/option/option.php:798
+#: includes/vafpress/admin/taxonomy/taxonomy.php:80
+msgid "Page Layout"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:18
+#: includes/vafpress/admin/option/option.php:666
+#: includes/vafpress/admin/option/option.php:731
+#: includes/vafpress/admin/option/option.php:799
+msgid "Choose the layout for blog pages"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:22
+#: includes/vafpress/admin/option/option.php:671
+#: includes/vafpress/admin/option/option.php:736
+#: includes/vafpress/admin/option/option.php:804
+#: includes/vafpress/admin/taxonomy/taxonomy.php:85
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:27
+#: includes/vafpress/admin/option/option.php:677
+#: includes/vafpress/admin/option/option.php:742
+#: includes/vafpress/admin/option/option.php:810
+#: includes/vafpress/admin/taxonomy/taxonomy.php:90
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:32
+#: includes/vafpress/admin/option/option.php:682
+#: includes/vafpress/admin/option/option.php:747
+#: includes/vafpress/admin/option/option.php:815
+#: includes/vafpress/admin/taxonomy/taxonomy.php:95
+msgid "Full Width"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:51
+#: includes/vafpress/admin/option/option.php:159
+msgid "Header Settings"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:60
+msgid "Header Background Image"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:61
+msgid "Choose the header background image to show on each page"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:66
+#: includes/vafpress/admin/taxonomy/taxonomy.php:50
+msgid "Header Title"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:67
+msgid "Enter header title"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:73
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:74
+msgid "Show/hide breadcrumb on the page."
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:90
+msgid "Show/Hide top posts"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:91
+msgid "Enable / disable seo Top post"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:98
+msgid "Gallery images"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:103
+msgid "Gallery Image"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:104
+msgid "Choose the Gallery images"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:111
+#: includes/vafpress/admin/metabox/meta_boxes.php:273
+msgid "Video Embed Code"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:113
+msgid "If post format is video then this embed code will be used in content"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:118
+#: includes/vafpress/admin/metabox/meta_boxes.php:280
+msgid "Audio Embed Code"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:120
+msgid "If post format is AUDIO then this embed code will be used in content"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:125
+msgid "Quote"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:127
+msgid ""
+"If post format is quote then the content in this textarea will be displayed"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:138
+msgid "Team Options"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:160
+msgid "Social Icon"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:167
+#: includes/vafpress/admin/option/option.php:977
+msgid "Link"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:181
+msgid "Testimonials Options"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:197
+msgid "Projects Options"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:203
+msgid "Project Detail Section Title"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:205
+msgid "Project Details"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:213
+msgid "Extra Portfolio Details"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:218
+#: includes/vafpress/admin/taxonomy/taxonomy.php:170
+msgid "Label"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:223
+msgid "Value"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:234
+msgid "Services Accordion"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:259
+msgid "Portfolio Images"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:275
+msgid "If Project Type is video then this embed code will be used in content"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:282
+msgid "If Project Type is AUDIO then this embed code will be used in content"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:291
+msgid "Image Gallery Settings"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:336
+msgid "Video Gallery Settings"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:350
+msgid "Video"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:359
+msgid "Video Link"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:381
+msgid "Services Settings"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:389
+msgid "Service Icon"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:395
+msgid "Services Image"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:396
+msgid "Add Another image to services"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:402
+msgid "Read More Link"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:403
+msgid "Enter the URL to redirect user for further reading"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:411
+msgid "Coupon Settings"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:419
+msgid "Is Purchaseable?"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:420
+#: includes/vafpress/admin/metabox/meta_boxes.php:421
+msgid ""
+"If its a shopable coupon, you need to fill in the shopping info at the "
+"bottom of the page"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:426
+msgid "Banner Title"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:427
+msgid ""
+"It is a banner text which you can see on great deals shortcode eg. Coupon or "
+"Deal"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:432
+msgid "Small Image"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:433
+msgid "It is an image which you can see the tabs on Homepage 2"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:438
+msgid "Button Title"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:439
+msgid "Enter get a coupon button text eg. \"Get a Coupon\""
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:444
+msgid "Cash Back text"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:445
+msgid ""
+"It is a text which you want to show on coupon shortcodes above Get a Coupon "
+"button eg. CASHBACK"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:451
+msgid "Expires Date"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:452
+msgid ""
+"Enter coupon expiry date, it may not formatted as per your country but You "
+"can see a formatted date on frontend"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:458
+msgid "Coupon coppied or popup"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:459
+msgid ""
+"On click on \"Get a Coupon\" button what do you want. Either code is copied "
+"to clipboard or a popup is being displayed to show the coupon"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:463
+msgid "Coupon Copied"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:467
+msgid "Coupon Popup"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:475
+msgid "Coupon Code"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:476
+msgid "Enter coupon code for this coupon"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:481
+msgid "Coupon External Link"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:482
+msgid ""
+"Enter referrer URL to be opened after clicking on \"Get a Coupon\" button "
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:487
+msgid "Verified Status"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:488
+msgid "Check this box if you want to show it as verified"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:494
+msgid "Safe"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:495
+msgid "Check this box if you want to this coupon as safe"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:501
+msgid "Share"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:502
+msgid "Check this box if allow users to share this coupon on social media."
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:508
+msgid "Discuss"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:509
+#, php-format
+msgid ""
+"Check this box if you want to a \"Disqus\" button, on click on this button a "
+"popup will be opened which will display Disqus discussions on this coupon. "
+"First you have to configure Disqus <a href=\"%s\" target=\"_blank\"> here</a>"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:519
+msgid "Product Settings"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:528
+msgid "Cashback Text"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:529
+msgid "Enter cashback text to show on products listing page"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:534
+msgid "Cashback Up to"
+msgstr ""
+
+#: includes/vafpress/admin/metabox/meta_boxes.php:535
+msgid "Enter percentage of cashback with text eg. UP TO 2.5%"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:3
+msgid "Builder Theme Options"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:8
+msgid "General Settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:14
+msgid "general Settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:23
+msgid "RTL Support"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:25
+msgid "This section is used for RTL settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:31
+msgid "RTL"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:32
+msgid "Turn RTL on or off"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:42
+msgid "Color Scheme"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:44
+#: includes/vafpress/admin/option/option.php:925
+msgid "This section is used for theme color settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:50
+msgid "Yellow Color Scheme"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:51
+msgid "Choose the Custom color scheme for the theme."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:58
+msgid "Blue Color Scheme"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:59
+msgid ""
+"Choose the Custom color scheme for the theme when hover different options."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:66
+msgid "Black Color Scheme"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:67
+msgid "Choose the Custom color scheme for footer"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:74
+msgid "Footer Bacckground image"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:75
+msgid "Choose the image you want to show on the background of footer"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:86
+msgid "Purchase Information"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:88
+msgid "To get the auto theme updates provide purchase information"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:94
+msgid "Purchase Code"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:95
+msgid ""
+"To find the purchase code to TF downloads tab click on Download then choose "
+"\"License and Purchase code\""
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:101
+msgid "Themeforest Username"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:102
+msgid "Enter your themeforest username"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:111
+msgid "Hide Expired Coupons"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:112
+msgid "Show or hide expired coupons"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:119
+msgid "Stores Layout"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:120
+msgid ""
+"Choose the Store layout whether Products cateogries or Coupons Categories"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:125
+msgid "Woocommerce Products Categories"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:131
+msgid "Coupons Categories"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:141
+msgid "Coupons Referer"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:142
+msgid "Add referer to all coupons referer links like \"ref=wow_themes\""
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:148
+msgid "DisQus Unique Identifier"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:149
+msgid ""
+"Get unique identifier from <a href=\"https://disqus.com/profile/signup/"
+"\">Disqus</a>"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:167
+msgid "Show Cart in Header"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:168
+msgid "Enable to show cart in header"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:175
+msgid "Favicon"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:176
+msgid "Upload the favicon, should be 16x16"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:183
+#: includes/vafpress/admin/option/option.php:184
+msgid "Choose search box filters"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:188
+msgid "Posts"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:203
+#: includes/vafpress/admin/option/option.php:1305
+msgid "Logo"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:204
+msgid "Upload the Logo, should be 159x25"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:210
+msgid "Show Top Bar"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:211
+msgid "Show or hide top bar"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:217
+msgid "Top bar settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:219
+msgid "This section is used for top bar area"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:228
+msgid "Login Page"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:229
+msgid "choose Login page to show in header area"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:242
+msgid "Account Page"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:243
+msgid "choose Account page to show in header area"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:256
+msgid "Favourites Page"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:257
+msgid "choose favourite page to show in header area"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:270
+msgid "Coupon Page"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:271
+msgid "choose Coupon page to show in header area"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:284
+msgid "Show header social icons"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:285
+msgid "Show or hide header social icons"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:295
+msgid "Coupon Popup Title"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:296
+msgid "Choose Popup Title"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:302
+#: includes/vafpress/admin/option/option.php:312
+msgid "Custom Popup Title"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:313
+msgid "Enter the custom popup title."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:324
+#: includes/vafpress/admin/option/option.php:341
+msgid "Default Coupon Image"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:325
+msgid "Select the deafault coupon image."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:331
+msgid "Custom Coupon Image"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:342
+msgid "Upload the deafault coupon image."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:355
+msgid "Header CSS"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:356
+msgid "Write your custom css to include in header."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:368
+msgid "Footer Settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:376
+msgid "Copy Right Text"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:377
+msgid "Enter the Copy Right Text"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:383
+msgid "Footer Analytics / Scripts"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:384
+msgid ""
+"In this area you can put Google Analytics Code or any other Script that you "
+"want to be included in the footer before the Body tag."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:395
+msgid "Twitter Settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:403
+msgid "API"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:404
+msgid ""
+"Enter Twitter API key Here. to get twitter api <a href=\"http://dev.twitter."
+"com\">Go To</a> and create a new app"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:411
+msgid "API Secret"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:412
+msgid "Enter Twitter API Secret Here."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:418
+msgid "Token"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:419
+msgid "Enter Twitter Token here."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:425
+msgid "Token Secret"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:426
+msgid "Enter Token Secret"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:433
+msgid "Permalinks Settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:445
+msgid "Team Permalink"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:446
+msgid "Enter Slug for Team Post Type."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:453
+msgid "Services Permalink"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:454
+msgid "Enter Slug for Services Post Type."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:460
+msgid "Projects Permalink"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:461
+msgid "Enter Permalink for Projects Post Type."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:467
+msgid "Testimonial Permalink"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:468
+msgid "Enter Permalink for Testimonial Post Type."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:475
+msgid "Coupons Permalink"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:476
+msgid "Enter Permalink for Couopons Post Type."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:490
+msgid "Team Category Permalink"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:491
+msgid "Enter Slug for Team Taxonomy."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:498
+msgid "Services Category Permalink"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:499
+msgid "Enter Slug for Services Taxonomy."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:505
+msgid "Projects Category Permalink"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:506
+msgid "Enter Permalink for Projects Taxonomy."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:512
+msgid "Testimonial Category Permalink"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:513
+msgid "Enter Permalink for Testimonial Taxonomy."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:519
+msgid "Coupons Category Permalink"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:520
+msgid "Enter Permalink for Coupons Taxonomy."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:526
+msgid "Coupons Store Permalink"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:527
+msgid "Enter Permalink for Coupon Stores."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:541
+#: includes/vafpress/admin/taxonomy/taxonomy.php:6
+msgid "SEO Settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:550
+#: includes/vafpress/admin/taxonomy/taxonomy.php:13
+msgid "Enable SEO"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:551
+msgid "Enable or disable seo settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:556
+msgid "Homepage Settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:558
+msgid "homepage meta title, meta description and meta keywords"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:563
+#: includes/vafpress/admin/option/option.php:593
+#: includes/vafpress/admin/taxonomy/taxonomy.php:19
+msgid "Meta Title"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:564
+#: includes/vafpress/admin/option/option.php:594
+msgid "Enter the Title you want to show on home page"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:570
+#: includes/vafpress/admin/option/option.php:600
+#: includes/vafpress/admin/taxonomy/taxonomy.php:26
+msgid "Meta Description"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:571
+#: includes/vafpress/admin/option/option.php:601
+msgid "Enter the meta description for homepage"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:577
+#: includes/vafpress/admin/option/option.php:607
+#: includes/vafpress/admin/taxonomy/taxonomy.php:33
+msgid "Meta Keywords"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:578
+#: includes/vafpress/admin/option/option.php:608
+msgid "Enter the comma separated keywords for homepage"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:586
+msgid "Archive Pages Settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:588
+msgid "archive pages meta title, meta description and meta keywords"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:620
+msgid "Page Settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:627
+msgid "Search Page"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:635
+#: includes/vafpress/admin/option/option.php:700
+#: includes/vafpress/admin/option/option.php:768
+msgid "Page Title"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:636
+msgid "Enter the Title you want to show on search page"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:642
+#: includes/vafpress/admin/option/option.php:707
+#: includes/vafpress/admin/option/option.php:775
+#: includes/vafpress/admin/taxonomy/taxonomy.php:55
+msgid "Header image"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:643
+msgid "Choose the image you want to show on search page"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:693
+msgid "Archive Page"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:701
+msgid "Enter the Title you want to show on archive page"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:708
+msgid "Choose the image you want to show on archive page"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:760
+msgid "Author Page"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:769
+msgid "Enter the Title you want to show on author page"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:776
+msgid "Choose the image you want to show on author page"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:915
+msgid "Sidebar Settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:923
+#: includes/vafpress/admin/option/option.php:932
+msgid "Dynamic Sidebar"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:930
+msgid "Sidebar Name"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:931
+msgid "Choose the default color scheme for the theme."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:941
+msgid "Social Media "
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:952
+msgid "This section is used to add Social Media."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:959
+msgid "Social media hover colour"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:961
+msgid "Choose the Custom color for social media hover."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:972
+msgid "Enter the title of the social media."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:978
+msgid "Enter the Link for Social Media."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:984
+msgid "Icon"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:985
+msgid "Choose Icon for Social Media."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1003
+msgid "Font Settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1009
+msgid "Heading Font"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1018
+#: includes/vafpress/admin/option/option.php:1245
+msgid "Use Custom Font"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1019
+#: includes/vafpress/admin/option/option.php:1246
+msgid "Use custom font or not"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1024
+msgid "H1 Settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1026
+msgid "heading 1 font settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1034
+#: includes/vafpress/admin/option/option.php:1069
+#: includes/vafpress/admin/option/option.php:1103
+#: includes/vafpress/admin/option/option.php:1139
+#: includes/vafpress/admin/option/option.php:1175
+#: includes/vafpress/admin/option/option.php:1211
+#: includes/vafpress/admin/option/option.php:1262
+msgid "Font Family"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1036
+msgid "Select the font family to use for h1"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1051
+#: includes/vafpress/admin/option/option.php:1084
+#: includes/vafpress/admin/option/option.php:1119
+#: includes/vafpress/admin/option/option.php:1155
+#: includes/vafpress/admin/option/option.php:1191
+#: includes/vafpress/admin/option/option.php:1227
+#: includes/vafpress/admin/option/option.php:1279
+msgid "Font Color"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1052
+#: includes/vafpress/admin/option/option.php:1085
+msgid "Choose the font color for heading h1"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1059
+msgid "H2 Settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1061
+msgid "heading h2 font settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1071
+msgid "Select the font family to use for h2"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1092
+msgid "H3 Settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1094
+msgid "heading h3 font settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1105
+msgid "Select the font family to use for h3"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1120
+msgid "Choose the font color for heading h3"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1128
+msgid "H4 Settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1130
+msgid "heading h4 font settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1141
+msgid "Select the font family to use for h4"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1156
+msgid "Choose the font color for heading h4"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1164
+msgid "H5 Settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1166
+msgid "heading h5 font settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1177
+msgid "Select the font family to use for h5"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1192
+msgid "Choose the font color for heading h5"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1200
+msgid "H6 Settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1202
+msgid "heading h6 font settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1213
+msgid "Select the font family to use for h6"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1228
+msgid "Choose the font color for heading h6"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1238
+msgid "Body Font"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1251
+msgid "Body Font Settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1253
+msgid "body font settings"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1264
+msgid "Select the font family to use for body"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1280
+msgid "Choose the font color for heading body"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1290
+#: includes/vafpress/admin/option/option.php:1298
+msgid "Partners"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1300
+msgid "Add as many Partners as you want"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1306
+msgid "choose the Partner logo."
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1312
+msgid "Brand Link"
+msgstr ""
+
+#: includes/vafpress/admin/option/option.php:1313
+msgid "Enter the Brand Link"
+msgstr ""
+
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:31
+msgid "Enter the Author name"
+msgstr ""
+
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:45
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:77
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:195
+msgid "Wordpress tinyMCE editor."
+msgstr ""
+
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:61
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:179
+msgid "Title Link"
+msgstr ""
+
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:63
+msgid "Enter the Title Link"
+msgstr ""
+
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:95
+msgid "Image for the section"
+msgstr ""
+
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:151
+msgid "Small Title"
+msgstr ""
+
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:153
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:167
+msgid "Enter title or leave blank if don\\'t want to show title."
+msgstr ""
+
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:165
+msgid "Main Title"
+msgstr ""
+
+#: includes/vafpress/admin/shortcode_generator/shortcodes1.php:181
+msgid "Enter Title Link"
+msgstr ""
+
+#: includes/vafpress/admin/shortcode_generator/shortcodes2.php:9
+msgid "Row"
+msgstr ""
+
+#: includes/vafpress/admin/shortcode_generator/shortcodes2.php:14
+msgid "Column"
+msgstr ""
+
+#: includes/vafpress/admin/shortcode_generator/shortcodes2.php:20
+msgid "Grid"
+msgstr ""
+
+#: includes/vafpress/admin/shortcode_generator/shortcodes2.php:28
+msgid "Offset"
+msgstr ""
+
+#: includes/vafpress/admin/shortcode_generator/shortcodes2.php:37
+msgid "Inner Spacer"
+msgstr ""
+
+#: includes/vafpress/admin/shortcode_generator/shortcodes2.php:43
+msgid "Size"
+msgstr ""
+
+#: includes/vafpress/admin/taxonomy/taxonomy.php:43
+msgid "Post Category Settings"
+msgstr ""
+
+#: includes/vafpress/admin/taxonomy/taxonomy.php:60
+msgid "Page View"
+msgstr ""
+
+#: includes/vafpress/admin/taxonomy/taxonomy.php:115
+msgid "Coupons Category Settings"
+msgstr ""
+
+#: includes/vafpress/admin/taxonomy/taxonomy.php:123
+msgid "Coupon Icon"
+msgstr ""
+
+#: includes/vafpress/admin/taxonomy/taxonomy.php:129
+#: includes/vafpress/admin/taxonomy/taxonomy.php:158
+msgid "Category Image"
+msgstr ""
+
+#: includes/vafpress/admin/taxonomy/taxonomy.php:138
+msgid "Store Category Settings"
+msgstr ""
+
+#: includes/vafpress/admin/taxonomy/taxonomy.php:145
+#: includes/vafpress/admin/taxonomy/taxonomy.php:146
+msgid "CashBack text"
+msgstr ""
+
+#: includes/vafpress/admin/taxonomy/taxonomy.php:151
+msgid "Website Link"
+msgstr ""
+
+#: includes/vafpress/admin/taxonomy/taxonomy.php:152
+msgid "Store Website Link"
+msgstr ""
+
+#: includes/vafpress/admin/taxonomy/taxonomy.php:165
+msgid "Cashback Table"
+msgstr ""
+
+#: includes/vafpress/admin/taxonomy/taxonomy.php:171
+msgid "Enter label to show on store page in cash table"
+msgstr ""
+
+#: includes/vafpress/admin/taxonomy/taxonomy.php:176
+msgid "Percentage"
+msgstr ""
+
+#: includes/vafpress/admin/taxonomy/taxonomy.php:177
+msgid "Enter percentage to show in cashback table"
+msgstr ""
+
+#: includes/vafpress/admin/taxonomy/taxonomy.php:187
+msgid "Product Category Settings"
+msgstr ""
+
+#: includes/vafpress/admin/taxonomy/taxonomy.php:195
+msgid "Product Icon"
+msgstr ""
+
+#: includes/vafpress/bootstrap.php:94
+msgid "Unauthorized function"
+msgstr ""
+
+#: includes/vafpress/classes/metabox.php:35 includes/vp_new/taxonomy.php:36
+msgid "[Development Mode] "
+msgstr ""
+
+#: includes/vafpress/classes/metabox.php:586
+#: includes/vafpress/classes/metabox/alchemy.php:515
+#: includes/vp_new/taxonomy.php:591
+msgid "Add More"
+msgstr ""
+
+#: includes/vafpress/classes/option.php:55
+#: includes/vafpress/classes/option.php:56
+msgid "Vafpress Options"
+msgstr ""
+
+#: includes/vafpress/classes/option.php:62
+msgid "Option Key is required"
+msgstr ""
+
+#: includes/vafpress/classes/option.php:64
+msgid "Template Array/File is required"
+msgstr ""
+
+#: includes/vafpress/classes/option.php:66
+msgid "Page Slug is required"
+msgstr ""
+
+#: includes/vafpress/classes/option.php:168
+msgid ""
+"Development Mode is Active, options' values won't be saved into database."
+msgstr ""
+
+#: includes/vafpress/classes/option.php:298
+msgid "Can not be empty"
+msgstr ""
+
+#: includes/vafpress/classes/option.php:323
+msgid "Invalid data"
+msgstr ""
+
+#: includes/vafpress/classes/option.php:386
+msgid "Unverified Access."
+msgstr ""
+
+#: includes/vafpress/classes/option.php:452
+msgid "Invalid template supplied"
+msgstr ""
+
+#: includes/vafpress/classes/option.php:465
+msgid "Utility"
+msgstr ""
+
+#: includes/vafpress/classes/option.php:471
+#: includes/vafpress/views/option/restore.php:79
+#: includes/vp_new/views/option/restore.php:13
+msgid "Restore Default"
+msgstr ""
+
+#: includes/vafpress/classes/option.php:480
+msgid "Export/Import"
+msgstr ""
+
+#: includes/vafpress/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr ""
+
+#: includes/vafpress/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr ""
+
+#: includes/vafpress/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr ""
+
+#: includes/vafpress/classes/shortcodegenerator.php:517
+msgid "insert"
+msgstr ""
+
+#: includes/vafpress/classes/shortcodegenerator.php:519
+msgid "cancel"
+msgstr ""
+
+#: includes/vafpress/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr ""
+
+#: includes/vafpress/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr ""
+
+#: includes/vafpress/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr ""
+
+#: includes/vafpress/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr ""
+
+#: includes/vafpress/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr ""
+
+#: includes/vafpress/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr ""
+
+#: includes/vafpress/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr ""
+
+#: includes/vafpress/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr ""
+
+#: includes/vafpress/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr ""
+
+#: includes/vafpress/config/messages.php:22
+msgid "This is required"
+msgstr ""
+
+#: includes/vafpress/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr ""
+
+#: includes/vafpress/config/messages.php:30
+msgid "Import failed"
+msgstr ""
+
+#: includes/vafpress/config/messages.php:31
+msgid "Export succeed, copy the JSON formatted options"
+msgstr ""
+
+#: includes/vafpress/config/messages.php:32
+msgid "Export failed"
+msgstr ""
+
+#: includes/vafpress/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr ""
+
+#: includes/vafpress/config/messages.php:34
+msgid "Options identical to default"
+msgstr ""
+
+#: includes/vafpress/config/messages.php:35
+msgid "Restoration failed"
+msgstr ""
+
+#: includes/vafpress/config/messages.php:43
+msgid "Select option(s)"
+msgstr ""
+
+#: includes/vafpress/config/messages.php:45
+msgid "Select an Icon"
+msgstr ""
+
+#: includes/vafpress/views/control/upload.php:10
+#: includes/vp_new/views/control/upload.php:5
+msgid "Choose File"
+msgstr ""
+
+#: includes/vafpress/views/option/impexp.php:7
+#: includes/vafpress/views/option/impexp.php:27
+#: includes/vp_new/views/option/impexp.php:4
+#: includes/vp_new/views/option/impexp.php:14
+msgid "Import"
+msgstr ""
+
+#: includes/vafpress/views/option/impexp.php:13
+#: includes/vp_new/views/option/impexp.php:7
+msgid "Import Options"
+msgstr ""
+
+#: includes/vafpress/views/option/impexp.php:59
+#: includes/vp_new/views/option/impexp.php:30
+msgid "Export Options"
+msgstr ""
+
+#: includes/vafpress/views/option/restore.php:7
+#: includes/vafpress/views/option/restore.php:27
+msgid "Import Demo Settings"
+msgstr ""
+
+#: includes/vafpress/views/option/restore.php:13
+msgid ""
+"Demo settings will import \"theme options\", \"widgets\", \"revolution slider"
+"\" and \"visual composer templates\""
+msgstr ""
+
+#: includes/vafpress/views/option/restore.php:39
+#: includes/vafpress/views/option/restore.php:81
+#: includes/vp_new/views/option/restore.php:14
+msgid ""
+"** Please make sure you have already make a backup data of your current "
+"settings. Once you click this button, your current settings will be gone"
+msgstr ""
+
+#: includes/vafpress/views/option/restore.php:61
+#: includes/vp_new/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr ""
+
+#: includes/vafpress/views/option/restore.php:67
+#: includes/vp_new/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr ""
+
+#: includes/vafpress/views/option/set.php:137
+#: includes/vafpress/views/option/set.php:167
+#: includes/vp_new/views/option/set.php:69
+#: includes/vp_new/views/option/set.php:84
+msgid "Save Changes"
+msgstr ""
+
+#: includes/vafpress/views/option/set.php:139
+#: includes/vafpress/views/option/set.php:169
+#: includes/vp_new/views/option/set.php:70
+#: includes/vp_new/views/option/set.php:85
+msgid "Saving Now"
+msgstr ""
+
+#: includes/vafpress/views/option/set.php:185
+#: includes/vp_new/views/option/set.php:93
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""
+
+#: includes/vc_map.php:8
+msgid "bbPress Forums"
+msgstr ""
+
+#: includes/vc_map.php:11
+msgid "Jollyall"
+msgstr ""
+
+#: includes/vc_map.php:18
+msgid "Forum"
+msgstr ""
+
+#: includes/vc_map.php:66
+msgid "Container"
+msgstr ""
+
+#: includes/vc_map.php:69
+msgid "Choose whether you want to add a container before row or not."
+msgstr ""
+
+#: includes/vp_new/classes/alchemy.php:1029
+msgid "Add More "
+msgstr ""
